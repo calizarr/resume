@@ -1,4 +1,4 @@
-# Cesar A. Lizarraga #
+# César A. Lizárraga #
 e-mail: <calizarr@gmail.com>  
 [github: http://github.com/calizarr] [git]  
 [LinkedIn: http://linkedin.com/in/calizarr] [linkedin]
@@ -12,14 +12,21 @@ Department of Mathematics, Washington University in St. Louis (US)
 
 #### Work Experience ####
 
-  * **December 2014 -- present: [Donald Danforth Plant Science Center][ddpsc]**
+  * **December 2014 -- Present: [Donald Danforth Plant Science Center][ddpsc]**
       * St. Louis, MO
-      * *Lab Technician (Bioinformatics/Statistics)*
+      * *Laboratory Technician (Bioinformatics/Statistics)*
       * Develop and document pipelines for analyzing high throughput
-      sequencing data.
-          * *ChIP-seq analysis pipeline, SNP calling pipeline, and HTP
-                imaging analsysis pipeline for LemnaTec HTP facility* 
-      * Analyse and manage data for the [Brachypodium ENCODE Project][encode].
+      sequencing and imaging data.
+      * Analyse and manage data for the
+        [Brachypodium ENCODE Project][encode].
+  * **July 2014 -- Present: [Nanaya][nanaya]**
+      * St. Louis, MO
+      * *Statistician/Back-end developer*
+      * Develop, design, and test algorithm from prototype.
+      * Verify that proper statistical procedures are being used
+        within prototype algorithm.
+      * Facilitate communication between developers and others.
+      * Manage and update server depending on needs of team.
   * **December 2014 -- September 2015: [Benson Hill Biosystems][BHB]**
       * St. Louis, MO
       * *Independent Contractor (Bioinformatics/Statistics)*
@@ -37,7 +44,14 @@ Department of Mathematics, Washington University in St. Louis (US)
         control.
           * [Developed in Python: PyChIP] [pychip]
       * Developed high throughput phenotyping pipeline using PlantCV
-        and R for imaging analysis for internal use with LemnaTec HTP facility.
+        and R for imaging analysis for internal use with LemnaTec HTP
+        facility.
+      * Mapped forward previous structural Brachypodium annotations
+        to new genome assembly using MAKER. Using output from MAKER,
+        mapped functional (PFAM, PHOBIUS, TIGRFAM, etc.) domains with
+        InterProScan to the annotations and converted locations to
+        genomic coordinates. Structural and functional annotations
+        were placed as tracks in a genome browser.
   * **Benson Hill Biosystems **
       * Developed high throughput phenotyping pipeline using HTPheno,
         R, and Python for a homegrown imaging system for internal use.
@@ -45,7 +59,7 @@ Department of Mathematics, Washington University in St. Louis (US)
 ### Bioinformatics Skills ###
   * NGS data analysis: *RNA-seq, ChIP-seq, variant calling*
   * Biostatistics: *Regression, multiple test correction, modelling,
-    heritability (broad-sense)*
+    heritability (broad-sense), ...*
   * Predictors and clustering analysis of data: *UPGMA,
     K-means, Agglomerative hierarchical clustering*
   * Databases and repositories: *Ensembl, Phytozome, NCBI Gene
@@ -57,11 +71,27 @@ Department of Mathematics, Washington University in St. Louis (US)
 ### Computer Skills ###
   * Languages: *Python, R, Perl, Java, MATLAB ...*
   * Operating systems and GNU/Linux: *Shell script (bash), AWK, sed,
-  grep, ...*
+  grep, Emacs, ...*
 
 ### Languages ###
   * Spanish: *Fluent*
   * Italian: *Low Advanced*
+
+### Publications  ###
+  * Laura Rayhel, B.A., Copper Aitken-Palmer, D.V.M., Ph.D.,
+    Priscilla Joyner, B.Sc., B.V.M.S., Carolyn Cray, Ph.D., **César
+    Andrés Lizárraga, B.A.**, Betty Ackerman, M.T.(A.S.C.P.), and Chris
+    Crowe, B.S. Hematology and biochemistry in captive white-naped
+    crane (*Grus vipio*). *Journal of Zoo and Wildlife Medicine (pending
+    publication)*
+
+### Posters ###
+  * Skyler Mitchell, Stuart Marshall, Stephanie Turnipseed, Luke
+    Burnham, **César Lizárraga**, Jared Streich, Rob Alba, and Todd
+    C. Mockler (2015) "Effect of drought treatments on transpiration
+    rate and stomatal density in Brachypodium distachyon." Donald
+    Danforth Plant Science Center and Missouri Botanical Gardens Joint
+    Fall Symposium, St. Louis, MO, October 2015.
   
 
 [git]: http://github.com/calizarr
@@ -71,3 +101,4 @@ Department of Mathematics, Washington University in St. Louis (US)
 [BHB]: http://www.bensonhillbio.com/
 [pypipe]: https://github.com/calizarr/PyPipeline/blob/master/README.md
 [pychip]: https://github.com/calizarr/PyChIP-seq
+[nanaya]: http:/www.nanaya.co
