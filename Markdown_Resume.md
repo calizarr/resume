@@ -54,6 +54,11 @@ Department of Mathematics, Washington University in St. Louis (US)
   * Operating systems and GNU/Linux: *Shell script (bash), AWK, sed,
   grep, ...*
 
+### Languages ###
+  * Spanish: *Fluent*
+  * Italian: *Low Advanced*
+  
+
 [git]: http://github.com/calizarr
 [linkedin]: http://www.linkedin.com/in/calizarr
 [ddpsc]: https://www.danforthcenter.org/
