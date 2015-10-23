@@ -1,9 +1,9 @@
-# Cesar A. Lizarraga#
+# César A. Lizárraga #
 e-mail: <calizarr@gmail.com>  
 [github: http://github.com/calizarr] [git]  
 [LinkedIn: http://linkedin.com/in/calizarr] [linkedin]
 
-### Education###
+### Education ###
 **B.A. Mathematics, 2008**  
 *Probability and Statistics*  
 Department of Mathematics, Washington University in St. Louis (US)
@@ -18,7 +18,7 @@ Department of Mathematics, Washington University in St. Louis (US)
       * Develop and document pipelines for analyzing high throughput
       sequencing data.
           * *ChIP-seq analysis pipeline, SNP calling pipeline, and HTP
-            imaging analsysis pipeline for LemnaTec HTP facility* 
+                imaging analsysis pipeline for LemnaTec HTP facility* 
       * Analyse and manage data for the [Brachypodium ENCODE Project][encode].
   * **December 2014 -- September 2015: [Benson Hill Biosystems][BHB]**
       * St. Louis, MO
@@ -36,8 +36,13 @@ Department of Mathematics, Washington University in St. Louis (US)
         sequencing machines using controls or random background as
         control.
           * [Developed in Python: PyChIP] [pychip]
+      * Developed high throughput phenotyping pipeline using PlantCV
+        and R for imaging analysis for internal use with LemnaTec HTP facility.
+  * **Benson Hill Biosystems **
+      * Developed high throughput phenotyping pipeline using HTPheno,
+        R, and Python for a homegrown imaging system for internal use.
 
-### Bioinformatics Skills###
+### Bioinformatics Skills ###
   * NGS data analysis: *RNA-seq, ChIP-seq, variant calling*
   * Biostatistics: *Regression, multiple test correction, modelling,
     heritability (broad-sense)*
@@ -50,7 +55,7 @@ Department of Mathematics, Washington University in St. Louis (US)
     Variant Effect Predictor, HTPheno, PlantCV, InterProScan ...*
 
 ### Computer Skills ###
-  * Languages: *Python, R, Perl, Java, ...*
+  * Languages: *Python, R, Perl, Java, MATLAB ...*
   * Operating systems and GNU/Linux: *Shell script (bash), AWK, sed,
   grep, ...*
 
