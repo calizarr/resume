@@ -31,15 +31,16 @@ Department of Mathematics, Washington University in St. Louis (US)
   * **Brachypodium Encode Project**
       * Developed a SNP calling pipeline for NGS paired-end read data
         from Illumina sequencing machines.
-          * [PyPipe] [pypipe]
+          * [Developed in Python and Bash wrapper script: PyPipe] [pypipe]
       * Developed a ChIP-seq pipeline for NGS data from Illumina
         sequencing machines using controls or random background as
         control.
-          * [PyChIP] [pychip]
+          * [Developed in Python: PyChIP] [pychip]
 
 ### Bioinformatics Skills###
   * NGS data analysis: *RNA-seq, ChIP-seq, variant calling*
-  * Biostatistics: *regression, multiple test correction, modelling*
+  * Biostatistics: *Regression, multiple test correction, modelling,
+    heritability (broad-sense)*
   * Predictors and clustering analysis of data: *UPGMA,
     K-means, Agglomerative hierarchical clustering*
   * Databases and repositories: *Ensembl, Phytozome, NCBI Gene
