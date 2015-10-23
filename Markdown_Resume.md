@@ -1,7 +1,7 @@
 # César A. Lizárraga #
 e-mail: <calizarr@gmail.com>  
-[github: http://github.com/calizarr] [git]  
-[LinkedIn: http://linkedin.com/in/calizarr] [linkedin]
+github: [http://github.com/calizarr] [git]  
+LinkedIn: [http://linkedin.com/in/calizarr] [linkedin]
 
 ### Education ###
 **B.A. Mathematics, 2008**  
