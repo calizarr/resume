@@ -63,8 +63,8 @@ Department of Mathematics, Washington University in St. Louis (US)
   * NGS data analysis: *RNA-seq, ChIP-seq, variant calling*
   * Biostatistics: *Regression, multiple test correction, modelling,
     heritability (broad-sense), ...*
-  * Predictors and clustering analysis of data: *UPGMA,
-    K-means, Agglomerative hierarchical clustering*
+  * Clustering analysis data: *UPGMA, K-means, Agglomerative
+    hierarchical clustering*
   * Databases and repositories: *Ensembl, Phytozome, NCBI Gene
     Expression Omnibus*
   * Libraries and tools: *SAMtools, Bioconductor, BioPython, SICER,
