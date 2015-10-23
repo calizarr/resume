@@ -36,10 +36,10 @@ Department of Mathematics, Washington University in St. Louis (US)
 
 #### Project Experience ####
   * **Brachypodium Encode Project**
-      * Developed a SNP calling pipeline for NGS paired-end read data
+      * Develop, maintain, and test a SNP calling pipeline for NGS paired-end read data
         from Illumina sequencing machines.
           * [Developed in Python and Bash wrapper script: PyPipe] [pypipe]
-      * Developed a ChIP-seq pipeline for NGS data from Illumina
+      * Develop maintain, and test a ChIP-seq pipeline for NGS data from Illumina
         sequencing machines using controls or random background as
         control.
           * [Developed in Python: PyChIP] [pychip]
@@ -55,6 +55,9 @@ Department of Mathematics, Washington University in St. Louis (US)
   * **Benson Hill Biosystems**
       * Developed high throughput phenotyping pipeline using HTPheno,
         R, and Python for a homegrown imaging system for internal use.
+      * Developed an RNA-seq pipeline to discover novel transcripts
+        using structural annotations, new genome assembly, and set
+        intersections. 
 
 ### Bioinformatics Skills ###
   * NGS data analysis: *RNA-seq, ChIP-seq, variant calling*
