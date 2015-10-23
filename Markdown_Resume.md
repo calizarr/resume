@@ -52,7 +52,7 @@ Department of Mathematics, Washington University in St. Louis (US)
         InterProScan to the annotations and converted locations to
         genomic coordinates. Structural and functional annotations
         were placed as tracks in a genome browser.
-  * **Benson Hill Biosystems **
+  * **Benson Hill Biosystems**
       * Developed high throughput phenotyping pipeline using HTPheno,
         R, and Python for a homegrown imaging system for internal use.
 
