@@ -8,9 +8,8 @@ LinkedIn: [http://linkedin.com/in/calizarr] [linkedin]
 *Probability and Statistics*  
 Department of Mathematics, Washington University in St. Louis
 
-### Experience ###
 
-#### Work Experience ####
+### Work Experience###
 
   * **December 2014 -- Present: [Donald Danforth Plant Science Center][ddpsc]**
       * St. Louis, MO
@@ -35,7 +34,8 @@ Department of Mathematics, Washington University in St. Louis
       * Developed an RNA-seq pipeline to discover novel transcripts.
       * Provided statistical consultation when necessary.
 
-#### Project Experience ####
+### Project Experience###
+
   * **Brachypodium Encode Project**
       * Develop, maintain, and test a SNP calling pipeline for NGS paired-end read data
         from Illumina sequencing machines.
@@ -47,7 +47,7 @@ Department of Mathematics, Washington University in St. Louis
       * Developed high throughput phenotyping pipeline using PlantCV
         and R for imaging analysis for internal use with LemnaTec HTP
         facility.
-      * Mapped forward previous structural Brachypodium annotations
+      * Mapped forward previous structural *Brachypodium distachyon* annotations
         to new genome assembly using MAKER. Using output from MAKER,
         mapped functional (PFAM, PHOBIUS, TIGRFAM, etc.) domains with
         InterProScan to the annotations and converted locations to
@@ -94,7 +94,7 @@ Department of Mathematics, Washington University in St. Louis
   * Skyler Mitchell, Stuart Marshall, Stephanie Turnipseed, Luke
     Burnham, **César Lizárraga**, Jared Streich, Rob Alba, and Todd
     C. Mockler (2015) "Effect of drought treatments on transpiration
-    rate and stomatal density in Brachypodium distachyon." Donald
+    rate and stomatal density in *Brachypodium distachyon*." Donald
     Danforth Plant Science Center and Missouri Botanical Gardens Joint
     Fall Symposium, St. Louis, MO, October 2015.
   
