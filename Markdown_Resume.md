@@ -1,4 +1,4 @@
-# César A. Lizárraga #
+# Cesar A. Lizarraga #
 e-mail: <calizarr@gmail.com>  
 github: [http://github.com/calizarr] [git]  
 LinkedIn: [http://linkedin.com/in/calizarr] [linkedin]
@@ -82,15 +82,15 @@ Department of Mathematics, Washington University in St. Louis (US)
 
 ### Publications  ###
   * Laura Rayhel, B.A., Copper Aitken-Palmer, D.V.M., Ph.D.,
-    Priscilla Joyner, B.Sc., B.V.M.S., Carolyn Cray, Ph.D., **César
-    Andrés Lizárraga, B.A.**, Betty Ackerman, M.T.(A.S.C.P.), and Chris
+    Priscilla Joyner, B.Sc., B.V.M.S., Carolyn Cray, Ph.D., **Cesar
+    Andres Lizarraga, B.A.**, Betty Ackerman, M.T.(A.S.C.P.), and Chris
     Crowe, B.S. Hematology and biochemistry in captive white-naped
     crane (*Grus vipio*). *Journal of Zoo and Wildlife Medicine (pending
     publication)*
 
 ### Posters ###
   * Skyler Mitchell, Stuart Marshall, Stephanie Turnipseed, Luke
-    Burnham, **César Lizárraga**, Jared Streich, Rob Alba, and Todd
+    Burnham, **Cesar Lizarraga**, Jared Streich, Rob Alba, and Todd
     C. Mockler (2015) "Effect of drought treatments on transpiration
     rate and stomatal density in Brachypodium distachyon." Donald
     Danforth Plant Science Center and Missouri Botanical Gardens Joint
