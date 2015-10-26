@@ -6,7 +6,7 @@ LinkedIn: [http://linkedin.com/in/calizarr] [linkedin]
 ### Education ###
 **B.A. Mathematics, 2008**  
 *Probability and Statistics*  
-Department of Mathematics, Washington University in St. Louis (US)
+Department of Mathematics, Washington University in St. Louis
 
 ### Experience ###
 
@@ -25,7 +25,7 @@ Department of Mathematics, Washington University in St. Louis (US)
       * Develop, design, and test algorithm from prototype.
       * Verify that proper statistical procedures are being used
         within prototype algorithm.
-      * Facilitate communication between developers and others.
+      * Facilitate communication between developers and other members.
       * Manage and update server depending on needs of team.
   * **December 2014 -- September 2015: [Benson Hill Biosystems][BHB]**
       * St. Louis, MO
@@ -55,7 +55,7 @@ Department of Mathematics, Washington University in St. Louis (US)
         were placed as tracks in a genome browser.
   * **Benson Hill Biosystems**
       * Developed high throughput phenotyping pipeline using HTPheno,
-        R, and Python for a homegrown imaging system for internal use.
+        R, and Python for a homegrown imaging system.
       * Developed an RNA-seq pipeline to discover novel transcripts
         using structural annotations, a new genome assembly, and set
         intersections. 
