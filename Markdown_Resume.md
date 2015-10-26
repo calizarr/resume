@@ -56,7 +56,7 @@ Department of Mathematics, Washington University in St. Louis (US)
       * Developed high throughput phenotyping pipeline using HTPheno,
         R, and Python for a homegrown imaging system for internal use.
       * Developed an RNA-seq pipeline to discover novel transcripts
-        using structural annotations, new genome assembly, and set
+        using structural annotations, a new genome assembly, and set
         intersections. 
 
 ### Bioinformatics Skills ###
