@@ -32,6 +32,7 @@ Department of Mathematics, Washington University in St. Louis (US)
       * *Independent Contractor (Bioinformatics/Statistics)*
       * Developed high throughput imaging analysis pipeline for
         homegrown imaging system.
+      * Developed an RNA-seq pipeline to discover novel transcripts.
       * Provided statistical consultation when necessary.
 
 #### Project Experience ####
@@ -66,10 +67,11 @@ Department of Mathematics, Washington University in St. Louis (US)
   * Clustering analysis data: *UPGMA, K-means, Agglomerative
     hierarchical clustering*
   * Databases and repositories: *Ensembl, Phytozome, NCBI Gene
-    Expression Omnibus*
+    Expression Omnibus, ...*
   * Libraries and tools: *SAMtools, Bioconductor, BioPython, SICER,
     MACS2, BWA, Blast, Trimmomatic, Bowtie, STAR, GATK2, PicardTools,
-    Variant Effect Predictor, HTPheno, PlantCV, InterProScan ...*
+    Variant Effect Predictor, HTPheno, PlantCV, InterProScan, Tophat,
+    Cufflinks, ...*
 
 ### Computer Skills ###
   * Languages: *Python, R, Perl, Java, MATLAB ...*
