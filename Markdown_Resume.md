@@ -3,12 +3,10 @@ e-mail: <calizarr@gmail.com>
 github: [http://github.com/calizarr] [git]  
 LinkedIn: [http://linkedin.com/in/calizarr] [linkedin]
 
-
 ### Education ###
 **B.A. Mathematics, 2008**  
 *Probability and Statistics*  
 Department of Mathematics, Washington University in St. Louis
-
 
 ### Work Experience###
 
@@ -35,7 +33,6 @@ Department of Mathematics, Washington University in St. Louis
       * Developed an RNA-seq pipeline to discover novel transcripts.
       * Provided statistical consultation when necessary.
 
-
 ### Project Experience###
 
   * **Brachypodium Encode Project**
@@ -61,7 +58,6 @@ Department of Mathematics, Washington University in St. Louis
       * Developed an RNA-seq pipeline to discover novel transcripts
         using structural annotations, a new genome assembly, and set
         intersections. 
-
 
 ### Bioinformatics Skills ###
   * NGS data analysis: *RNA-seq, ATAC-seq, ChIP-seq, variant calling*
