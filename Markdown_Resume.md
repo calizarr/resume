@@ -106,4 +106,4 @@ Department of Mathematics, Washington University in St. Louis
 [BHB]: http://www.bensonhillbio.com/
 [pypipe]: https://github.com/calizarr/PyPipeline/
 [pychip]: https://github.com/calizarr/PyChIP-seq
-[nanaya]: http:/www.nanaya.co
+[nanaya]: http://www.nanaya.co
