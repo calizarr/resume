@@ -40,7 +40,7 @@ Department of Mathematics, Washington University in St. Louis
       * Develop, maintain, and test a SNP calling pipeline for NGS paired-end read data
         from Illumina sequencing machines.
           * [Developed in Python and Bash wrapper script: PyPipe] [pypipe]
-      * Develop maintain, and test a ChIP-seq pipeline for NGS data from Illumina
+      * Develop, maintain, and test a ChIP-seq pipeline for NGS data from Illumina
         sequencing machines using controls or random background as
         control.
           * [Developed in Python: PyChIP] [pychip]
@@ -61,7 +61,7 @@ Department of Mathematics, Washington University in St. Louis
         intersections. 
 
 ### Bioinformatics Skills ###
-  * NGS data analysis: *RNA-seq, ChIP-seq, variant calling*
+  * NGS data analysis: *RNA-seq, ATAC-seq, ChIP-seq, variant calling*
   * Biostatistics: *Regression, multiple test correction, modelling,
     heritability (broad-sense), ...*
   * Clustering analysis data: *UPGMA, K-means, Agglomerative
@@ -104,6 +104,6 @@ Department of Mathematics, Washington University in St. Louis
 [ddpsc]: https://www.danforthcenter.org/
 [encode]: http://genomicscience.energy.gov/research/DOEUSDA/abstracts/2014mockler_abstract.shtml
 [BHB]: http://www.bensonhillbio.com/
-[pypipe]: https://github.com/calizarr/PyPipeline/blob/master/README.md
+[pypipe]: https://github.com/calizarr/PyPipeline/
 [pychip]: https://github.com/calizarr/PyChIP-seq
 [nanaya]: http:/www.nanaya.co
