@@ -3,11 +3,6 @@ e-mail: <calizarr@gmail.com>
 github: [http://github.com/calizarr] [git]  
 LinkedIn: [http://linkedin.com/in/calizarr] [linkedin]
 
-### Education ###
-**B.A. Mathematics, 2008**  
-*Probability and Statistics*  
-Department of Mathematics, Washington University in St. Louis
-
 ### Work Experience ###
 
   * **December 2014 - Present: [Donald Danforth Plant Science Center][ddpsc] (St. Louis, MO)**
@@ -28,6 +23,11 @@ Department of Mathematics, Washington University in St. Louis
         a custom in-house imaging system.
       * Developed an RNA-seq pipeline to discover novel transcripts.
       * Provided statistical consultation when necessary.
+
+### Education ###
+**B.A. Mathematics, 2008**  
+*Probability and Statistics*  
+Department of Mathematics, Washington University in St. Louis
 
 ### Project Experience ###
 
