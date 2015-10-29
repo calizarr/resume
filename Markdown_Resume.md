@@ -5,8 +5,9 @@ LinkedIn: [http://linkedin.com/in/calizarr] [linkedin]
 
 ### Work Experience###
 
-**December 2014 - Present: [Donald Danforth Plant Science Center][ddpsc] (St. Louis, MO)**  
- *Laboratory Technician (Bioinformatics/Statistics)*  
+  * **December 2014 - Present:
+    [Donald Danforth Plant Science Center][ddpsc] (St. Louis, MO)**
+   *Laboratory Technician (Bioinformatics/Statistics)*
       * Develop and document pipelines for analyzing high throughput
         sequencing and imaging data.
       * Analytics and Data Management for the [Brachypodium ENCODE Project][encode].
