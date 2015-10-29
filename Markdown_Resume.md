@@ -8,15 +8,15 @@ LinkedIn: [http://linkedin.com/in/calizarr] [linkedin]
 **December 2014 - Present: [Donald Danforth Plant Science Center][ddpsc] (St. Louis, MO)**  
  *Laboratory Technician (Bioinformatics/Statistics)*
       * Develop and document pipelines for analyzing high throughput
-      sequencing and imaging data.
-      * Analytics and Data Management for the
-        [Brachypodium ENCODE Project][encode].
-  * **July 2014 - Present: [Nanaya][nanaya] (St. Louis, MO)**
-      * *Statistician/Back-end developer*
+        sequencing and imaging data.
+      * Analytics and Data Management for the [Brachypodium ENCODE Project][encode].
+**July 2014 - Present: [Nanaya][nanaya] (St. Louis, MO)**
+ *Statistician/Back-end developer*
       * Develop, design, and test algorithm(s) from prototype.
       * Verify that proper statistical procedures are being used
         within prototype algorithm(s).
-      * Facilitate communication between developers and R&D team members.
+      * Facilitate communication between developers and R&D team
+        members.
       * Manage and update server depending on needs of team.
   * **December 2014 - September 2015: [Benson Hill Biosystems][BHB]
     (St. Louis, MO)**
