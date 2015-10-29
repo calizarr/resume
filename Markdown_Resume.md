@@ -43,10 +43,9 @@ Department of Mathematics, Washington University in St. Louis
         facility.
       * Mapped forward previous structural *Brachypodium distachyon*
         annotations to new genome assembly using MAKER. Mapped
-        functional (PFAM, PHOBIUS, and TIGRFAM.) domains with
-        InterProScan to the annotations and converted locations to
-        genomic coordinates. Structural and functional annotations
-        were placed as tracks in a genome browser.
+        functional domains with InterProScan to the annotations and
+        converted locations to genomic coordinates. Structural and
+        functional annotations were placed as tracks in a genome browser.
   * **Benson Hill Biosystems**
       * Developed high throughput phenotyping pipeline using HTPheno,
         R, and Python for a custom in-house imaging system.
