@@ -72,7 +72,7 @@ Department of Mathematics, Washington University in St. Louis
     Cufflinks*
 
 ### Computer Skills ###
-  * Languages: *Python, R, Perl, Java, MATLAB ...*
+  * Languages: *Python, R, Perl, Java, MATLAB*
   * Operating systems and GNU/Linux: *Shell script (bash), AWK, sed,
   grep, Emacs, UNIX*
 
