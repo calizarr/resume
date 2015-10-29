@@ -45,7 +45,7 @@ Department of Mathematics, Washington University in St. Louis
         facility.
       * Mapped forward previous structural *Brachypodium distachyon* annotations
         to new genome assembly using MAKER. Using output from MAKER,
-        mapped functional (PFAM, PHOBIUS, TIGRFAM, etc.) domains with
+        mapped functional (PFAM, PHOBIUS, and TIGRFAM.) domains with
         InterProScan to the annotations and converted locations to
         genomic coordinates. Structural and functional annotations
         were placed as tracks in a genome browser.
@@ -59,32 +59,31 @@ Department of Mathematics, Washington University in St. Louis
 ### Bioinformatics Skills ###
   * NGS data analysis: *RNA-seq, ATAC-seq, ChIP-seq, variant calling*
   * Biostatistics: *Regression, multiple test correction, modelling,
-    heritability (broad-sense), ...*
+    heritability (broad-sense)*
   * Clustering analysis data: *UPGMA, K-means, Agglomerative
     hierarchical clustering*
   * Databases and repositories: *Ensembl, Phytozome, NCBI Gene
-    Expression Omnibus, ...*
+    Expression Omnibus*
   * Libraries and tools: *SAMtools, Bioconductor, BioPython, SICER,
     MACS2, BWA, Blast, Trimmomatic, Bowtie, STAR, GATK2, PicardTools,
     Variant Effect Predictor, HTPheno, PlantCV, InterProScan, Tophat,
-    Cufflinks, ...*
+    Cufflinks*
 
 ### Computer Skills ###
   * Languages: *Python, R, Perl, Java, MATLAB ...*
   * Operating systems and GNU/Linux: *Shell script (bash), AWK, sed,
-  grep, Emacs, ...*
+  grep, Emacs, UNIX*
 
 ### Languages ###
   * Spanish: *Fluent*
-  * Italian: *Low Advanced*
+  * Italian: *Intermediate*
 
 ### Publications  ###
   * Laura Rayhel, B.A., Copper Aitken-Palmer, D.V.M., Ph.D.,
     Priscilla Joyner, B.Sc., B.V.M.S., Carolyn Cray, Ph.D., **César
     Andrés Lizárraga, B.A.**, Betty Ackerman, M.T.(A.S.C.P.), and Chris
     Crowe, B.S. Hematology and biochemistry in captive white-naped
-    crane (*Grus vipio*). *Journal of Zoo and Wildlife Medicine (pending
-    publication)*
+    crane (*Grus vipio*). *Journal of Zoo and Wildlife Medicine (in press)*
 
 ### Posters ###
   * Skyler Mitchell, Stuart Marshall, Stephanie Turnipseed, Luke
