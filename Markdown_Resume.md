@@ -8,50 +8,48 @@ LinkedIn: [http://linkedin.com/in/calizarr] [linkedin]
 *Probability and Statistics*  
 Department of Mathematics, Washington University in St. Louis
 
-### Work Experience###
+### Work Experience ###
 
   * **December 2014 - Present: [Donald Danforth Plant Science Center][ddpsc] (St. Louis, MO)**
   * *Laboratory Technician (Bioinformatics/Statistics)*
       * Develop and document pipelines for analyzing high throughput
-      sequencing and imaging data.
-      * Analyse and manage data for the
-        [Brachypodium ENCODE Project][encode].
+        sequencing and imaging data.
+      * Analytics and Data Management for the [Brachypodium ENCODE Project][encode].
   * **July 2014 - Present: [Nanaya][nanaya] (St. Louis, MO)**
   * *Statistician/Back-end developer*
-      * Develop, design, and test algorithm from prototype.
+      * Develop, design, and test algorithm(s) from prototype.
       * Verify that proper statistical procedures are being used
-        within prototype algorithm.
-      * Facilitate communication between developers and other members.
+        within prototype algorithm(s).
+      * Facilitate communication between developers and R&D Team members.
       * Manage and update server depending on needs of team.
   * **December 2014 - September 2015: [Benson Hill Biosystems][BHB] (St. Louis, MO)**
   * *Independent Contractor (Bioinformatics/Statistics)*
       * Developed high throughput imaging analysis pipeline for
-        homegrown imaging system.
+        a custom in-house imaging system.
       * Developed an RNA-seq pipeline to discover novel transcripts.
       * Provided statistical consultation when necessary.
 
-### Project Experience###
+### Project Experience ###
 
-  * **Brachypodium Encode Project**
+  * **Brachypodium ENCODE Project**
       * Develop, maintain, and test a SNP calling pipeline for NGS paired-end read data
-        from Illumina sequencing machines.
+        from Illumina sequencing platform.
           * [Developed in Python and Bash wrapper script: PyPipe] [pypipe]
       * Develop, maintain, and test a ChIP-seq pipeline for NGS data from Illumina
-        sequencing machines using controls or random background as
-        control.
+        sequencing platform.
           * [Developed in Python: PyChIP] [pychip]
       * Developed high throughput phenotyping pipeline using PlantCV
         and R for imaging analysis for internal use with LemnaTec HTP
         facility.
-      * Mapped forward previous structural *Brachypodium distachyon* annotations
-        to new genome assembly using MAKER. Using output from MAKER,
-        mapped functional (PFAM, PHOBIUS, and TIGRFAM.) domains with
+      * Mapped forward previous structural *Brachypodium distachyon*
+        annotations to new genome assembly using MAKER. Mapped
+        functional (PFAM, PHOBIUS, and TIGRFAM.) domains with
         InterProScan to the annotations and converted locations to
         genomic coordinates. Structural and functional annotations
         were placed as tracks in a genome browser.
   * **Benson Hill Biosystems**
       * Developed high throughput phenotyping pipeline using HTPheno,
-        R, and Python for a homegrown imaging system.
+        R, and Python for a custom in-house imaging system.
       * Developed an RNA-seq pipeline to discover novel transcripts
         using structural annotations, a new genome assembly, and set
         intersections. 
@@ -70,7 +68,7 @@ Department of Mathematics, Washington University in St. Louis
     Cufflinks*
 
 ### Computer Skills ###
-  * Languages: *Python, R, Perl, Java, MATLAB ...*
+  * Languages: *Python, R, Perl, Java, MATLAB*
   * Operating systems and GNU/Linux: *Shell script (bash), AWK, sed,
   grep, Emacs, UNIX*
 
@@ -78,7 +76,7 @@ Department of Mathematics, Washington University in St. Louis
   * Spanish: *Fluent*
   * Italian: *Intermediate*
 
-### Publications  ###
+### Publications ###
   * Laura Rayhel, B.A., Copper Aitken-Palmer, D.V.M., Ph.D.,
     Priscilla Joyner, B.Sc., B.V.M.S., Carolyn Cray, Ph.D., **César
     Andrés Lizárraga, B.A.**, Betty Ackerman, M.T.(A.S.C.P.), and Chris
