@@ -10,14 +10,14 @@ Department of Mathematics, Washington University in St. Louis
 
 ### Work Experience###
 
-  * **December 2014 -- Present: [Donald Danforth Plant Science Center][ddpsc]**
+  * **December 2014 - Present: [Donald Danforth Plant Science Center][ddpsc]**
       * St. Louis, MO
       * *Laboratory Technician (Bioinformatics/Statistics)*
       * Develop and document pipelines for analyzing high throughput
       sequencing and imaging data.
       * Analyse and manage data for the
         [Brachypodium ENCODE Project][encode].
-  * **July 2014 -- Present: [Nanaya][nanaya]**
+  * **July 2014 - Present: [Nanaya][nanaya]**
       * St. Louis, MO
       * *Statistician/Back-end developer*
       * Develop, design, and test algorithm from prototype.
@@ -25,7 +25,7 @@ Department of Mathematics, Washington University in St. Louis
         within prototype algorithm.
       * Facilitate communication between developers and other members.
       * Manage and update server depending on needs of team.
-  * **December 2014 -- September 2015: [Benson Hill Biosystems][BHB]**
+  * **December 2014 - September 2015: [Benson Hill Biosystems][BHB]**
       * St. Louis, MO
       * *Independent Contractor (Bioinformatics/Statistics)*
       * Developed high throughput imaging analysis pipeline for
