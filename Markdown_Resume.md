@@ -82,7 +82,7 @@ Department of Mathematics, Washington University in St. Louis
     Crowe, B.S. Hematology and biochemistry in captive white-naped
     crane (*Grus vipio*). *Journal of Zoo and Wildlife Medicine (in press)*
 
-### Posters ###
+### Professional Presentations ###
   * Skyler Mitchell, Stuart Marshall, Stephanie Turnipseed, Luke
     Burnham, **César Lizárraga**, Jared Streich, Rob Alba, and Todd
     C. Mockler (2015) "Effect of drought treatments on transpiration
