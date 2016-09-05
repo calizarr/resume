@@ -1,0 +1,132 @@
+[[césar-a.-lizárraga]]
+= César A. Lizárraga
+
+e-mail: calizarr@gmail.com +
+github: http://github.com/calizarr +
+LinkedIn:
+http://www.linkedin.com/in/calizarr[http://linkedin.com/in/calizarr]
+
+[[work-experience]]
+=== Work Experience
+
+* *December 2014 - Present: https://www.danforthcenter.org/[Donald
+Danforth Plant Science Center] (St. Louis, MO)*
+** _Laboratory Technician (Bioinformatics/Statistics) in Mockler Lab_
+** Develop and document pipelines for analyzing high throughput
+sequencing and imaging data
+** Analytics and Data Management for the
+http://genomicscience.energy.gov/research/DOEUSDA/abstracts/2014mockler_abstract.shtml[Brachypodium
+ENCODE Project]
+** Analytics and Data Management for the
+https://missouriepscor.org/[EPSCoR Project]
+** Assist with data analysis whenever requested
+* *July 2014 - Present: http://www.nanaya.co[Nanaya] (St. Louis, MO)*
+** _Statistician/Back-end developer_
+** Develop, design, and test algorithm(s) from prototype
+** Verify that proper statistical procedures are being used within
+prototype algorithm(s)
+** Facilitate communication between developers and R&D Team members
+** Manage and update server depending on needs of team
+* *December 2014 - September 2015: http://www.bensonhillbio.com/[Benson
+Hill Biosystems] (St. Louis, MO)*
+** _Independent Contractor (Bioinformatics/Statistics)_
+** Developed high throughput imaging analysis pipeline for a custom
+in-house imaging system
+** Developed an RNA-seq pipeline to discover novel transcripts
+** Provided statistical consultation when necessary
+
+[[education]]
+=== Education
+
+*B.A. Mathematics, 2008* +
+_Probability and Statistics_ +
+Department of Mathematics, Washington University in St. Louis
+
+[[project-experience]]
+=== Project Experience
+
+* *General Lab Projects*
+** Develop, maintain, and test an RNA-seq pipeline for NGS data from
+Illumina sequencing platform
+** Develop, maintain, and test a SNP calling pipeline for NGS paired-end
+read data from Illumina sequencing platform
+*** https://github.com/calizarr/PyPipeline/[Developed in Python and Bash
+wrapper script: PyPipe]
+** Develop, maintain, and test a ChIP-seq pipeline for NGS data from
+Illumina sequencing platform
+*** https://github.com/calizarr/PyChIP-seq[Developed in Python: PyChIP]
+** Developed high throughput phenotyping pipeline using PlantCV and R
+for imaging analysis for internal use with LemnaTec HTP facility
+* *Brachypodium ENCODE Project*
+** Mapped forward previous structural _Brachypodium distachyon_
+annotations to new genome assembly using MAKER
+** Mapped functional domains with InterProScan to the annotations and
+converted locations to genomic coordinates
+** Structural and functional annotations were placed as tracks in a
+genome browser
+* *PheNode: Field canopy sensor system*
+** Develop code for Arduino to interface with sensors
+** Develop code to control Arduino from Raspberry Pi, read, and save
+results
+** Assess power requirements and setup batteries, relays, etc.
+* *Benson Hill Biosystems*
+** Developed high throughput phenotyping pipeline using HTPheno, R, and
+Python for a custom in-house imaging system
+** Developed an RNA-seq pipeline to discover novel transcripts using
+structural annotations, a new genome assembly, and set intersections.
+
+[[bioinformatics-skills]]
+=== Bioinformatics Skills
+
+* NGS data analysis: _RNA-seq, ATAC-seq, ChIP-seq, variant calling_
+* Biostatistics: _Regression, multiple test correction, modelling,
+heritability (broad-sense)_
+* Clustering analysis data: _UPGMA, K-means, Agglomerative, hierarchical
+clustering_
+* Databases and repositories: _Ensembl, Phytozome, NCBI Gene Expression
+Omnibus_
+* Libraries and tools:
+** _SAMtools, Bioconductor, BioPython, SICER, MACS2, BWA, Blast_
+** _Trimmomatic, Bowtie, STAR, GATK2, PicardTools, Variant Effect
+Predictor_
+** _HTPheno, PlantCV, InterProScan, Tophat, Cufflinks_
+
+[[computer-skills]]
+=== Computer Skills
+
+* Languages: _Python, R, Bash, Perl, Java, MATLAB_
+* Operating systems and GNU/Linux: _AWK, sed, grep, Emacs, UNIX_
+
+[[languages]]
+=== Languages
+
+* Spanish: _Fluent_
+* Italian: _Intermediate_
+
+[[publications]]
+=== Publications
+
+* Laura Rayhel, B.A., Copper Aitken-Palmer, D.V.M., Ph.D., Priscilla
+Joyner, B.Sc., B.V.M.S., Carolyn Cray, Ph.D., *César Andrés Lizárraga,
+B.A.*, Betty Ackerman, M.T. (A.S.C.P.), and Chris Crowe, B.S. Hematology
+and biochemistry in captive white-naped cranes (_Grus VIPIO_). _Journal
+of Zoo and Wildlife Medicine 46(4):747-754.
+http://dx.doi.org/10.1638/2015-0027.1 (2015)_
+
+[[professional-presentations]]
+=== Professional Presentations
+
+* Skyler Mitchell, Stuart Marshall, Stephanie Turnipseed, Luke Burnham,
+*César Lizárraga*, Jared Streich, Rob Alba, and Todd C. Mockler (2015)
+"Effect of drought treatments on transpiration rate and stomatal density
+in _Brachypodium distachyon_." Donald Danforth Plant Science Center and
+Missouri Botanical Gardens Joint Fall Symposium, St. Louis, MO, October
+2015 +
+* *César A. Lizárraga*, Henry D. Priest, Noah Fahlgren, Rob Alba, and
+Todd C. Mockler. Bioinformatics Pipelines for Purple False Brome
+(Brachypodium distachyon) Donald Danforth Plant Science Center, St.
+Louis, MO. (2015)
+* *Cesar Lizarraga*, Stuart Marshall, Bradley Flynn, Nadia Shakoor1 and
+Todd C. Mockler. PhenoPiSight: Fixed Camera Greenhouse-based Phenotyping
+Platform. (2016)
+

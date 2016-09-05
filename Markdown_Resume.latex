@@ -1,0 +1,280 @@
+\documentclass[]{article}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use microtype if available
+\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{0}
+\usepackage[top=1in, bottom=1in, left=1.25in, right=1.25in]{geometry}
+\pagestyle{empty}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\section{César A. Lizárraga}\label{cuxe9sar-a.-lizuxe1rraga}
+
+e-mail: \href{mailto:calizarr@gmail.com}{calizarr@gmail.com}\\github:
+\url{http://github.com/calizarr}\\LinkedIn:
+\href{http://www.linkedin.com/in/calizarr}{http://linkedin.com/in/calizarr}
+
+\subsubsection{Work Experience}\label{work-experience}
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  \textbf{December 2014 - Present:
+  \href{https://www.danforthcenter.org/}{Donald Danforth Plant Science
+  Center} (St.~Louis, MO)}
+
+  \begin{itemize}
+  \itemsep1pt\parskip0pt\parsep0pt
+  \item
+    \emph{Laboratory Technician (Bioinformatics/Statistics) in Mockler
+    Lab}
+  \item
+    Develop and document pipelines for analyzing high throughput
+    sequencing and imaging data
+  \item
+    Analytics and Data Management for the
+    \href{http://genomicscience.energy.gov/research/DOEUSDA/abstracts/2014mockler_abstract.shtml}{Brachypodium
+    ENCODE Project}
+  \item
+    Analytics and Data Management for the
+    \href{https://missouriepscor.org/}{EPSCoR Project}
+  \item
+    Assist with data analysis whenever requested
+  \end{itemize}
+\item
+  \textbf{July 2014 - Present: \href{http://www.nanaya.co}{Nanaya}
+  (St.~Louis, MO)}
+
+  \begin{itemize}
+  \itemsep1pt\parskip0pt\parsep0pt
+  \item
+    \emph{Statistician/Back-end developer}
+  \item
+    Develop, design, and test algorithm(s) from prototype
+  \item
+    Verify that proper statistical procedures are being used within
+    prototype algorithm(s)
+  \item
+    Facilitate communication between developers and R\&D Team members
+  \item
+    Manage and update server depending on needs of team
+  \end{itemize}
+\item
+  \textbf{December 2014 - September 2015:
+  \href{http://www.bensonhillbio.com/}{Benson Hill Biosystems}
+  (St.~Louis, MO)}
+
+  \begin{itemize}
+  \itemsep1pt\parskip0pt\parsep0pt
+  \item
+    \emph{Independent Contractor (Bioinformatics/Statistics)}
+  \item
+    Developed high throughput imaging analysis pipeline for a custom
+    in-house imaging system
+  \item
+    Developed an RNA-seq pipeline to discover novel transcripts
+  \item
+    Provided statistical consultation when necessary
+  \end{itemize}
+\end{itemize}
+
+\subsubsection{Education}\label{education}
+
+\textbf{B.A. Mathematics, 2008}\\\emph{Probability and
+Statistics}\\Department of Mathematics, Washington University in
+St.~Louis
+
+\subsubsection{Project Experience}\label{project-experience}
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  \textbf{General Lab Projects}
+
+  \begin{itemize}
+  \itemsep1pt\parskip0pt\parsep0pt
+  \item
+    Develop, maintain, and test an RNA-seq pipeline for NGS data from
+    Illumina sequencing platform
+  \item
+    Develop, maintain, and test a SNP calling pipeline for NGS
+    paired-end read data from Illumina sequencing platform
+
+    \begin{itemize}
+    \itemsep1pt\parskip0pt\parsep0pt
+    \item
+      \href{https://github.com/calizarr/PyPipeline/}{Developed in Python
+      and Bash wrapper script: PyPipe}
+    \end{itemize}
+  \item
+    Develop, maintain, and test a ChIP-seq pipeline for NGS data from
+    Illumina sequencing platform
+
+    \begin{itemize}
+    \itemsep1pt\parskip0pt\parsep0pt
+    \item
+      \href{https://github.com/calizarr/PyChIP-seq}{Developed in Python:
+      PyChIP}
+    \end{itemize}
+  \item
+    Developed high throughput phenotyping pipeline using PlantCV and R
+    for imaging analysis for internal use with LemnaTec HTP facility
+  \end{itemize}
+\item
+  \textbf{Brachypodium ENCODE Project}
+
+  \begin{itemize}
+  \itemsep1pt\parskip0pt\parsep0pt
+  \item
+    Mapped forward previous structural \emph{Brachypodium distachyon}
+    annotations to new genome assembly using MAKER
+  \item
+    Mapped functional domains with InterProScan to the annotations and
+    converted locations to genomic coordinates
+  \item
+    Structural and functional annotations were placed as tracks in a
+    genome browser
+  \end{itemize}
+\item
+  \textbf{PheNode: Field canopy sensor system}
+
+  \begin{itemize}
+  \itemsep1pt\parskip0pt\parsep0pt
+  \item
+    Develop code for Arduino to interface with sensors
+  \item
+    Develop code to control Arduino from Raspberry Pi, read, and save
+    results
+  \item
+    Assess power requirements and setup batteries, relays, etc.
+  \end{itemize}
+\item
+  \textbf{Benson Hill Biosystems}
+
+  \begin{itemize}
+  \itemsep1pt\parskip0pt\parsep0pt
+  \item
+    Developed high throughput phenotyping pipeline using HTPheno, R, and
+    Python for a custom in-house imaging system
+  \item
+    Developed an RNA-seq pipeline to discover novel transcripts using
+    structural annotations, a new genome assembly, and set
+    intersections.
+  \end{itemize}
+\end{itemize}
+
+\subsubsection{Bioinformatics Skills}\label{bioinformatics-skills}
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  NGS data analysis: \emph{RNA-seq, ATAC-seq, ChIP-seq, variant calling}
+\item
+  Biostatistics: \emph{Regression, multiple test correction, modelling,
+  heritability (broad-sense)}
+\item
+  Clustering analysis data: \emph{UPGMA, K-means, Agglomerative,
+  hierarchical clustering}
+\item
+  Databases and repositories: \emph{Ensembl, Phytozome, NCBI Gene
+  Expression Omnibus}
+\end{itemize}
+
+\subsubsection{Computer Skills}\label{computer-skills}
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Languages: \emph{Python, R, Bash, Perl, Java, MATLAB}
+\item
+  Operating systems and GNU/Linux: \emph{AWK, sed, grep, Emacs, UNIX}
+\end{itemize}
+
+\subsubsection{Languages}\label{languages}
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Spanish: \emph{Fluent}
+\item
+  Italian: \emph{Intermediate}
+\end{itemize}
+
+\subsubsection{Publications}\label{publications}
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Laura Rayhel, B.A., Copper Aitken-Palmer, D.V.M., Ph.D., Priscilla
+  Joyner, B.Sc., B.V.M.S., Carolyn Cray, Ph.D., \textbf{César Andrés
+  Lizárraga, B.A.},\\Betty Ackerman, M.T. (A.S.C.P.), and Chris Crowe,
+  B.S. Hematology and biochemistry in captive white-naped cranes
+  (\emph{Grus VIPIO}). \emph{Journal of Zoo and\\Wildlife Medicine
+  46(4):747-754. http://dx.doi.org/10.1638/2015-0027.1 (2015)}
+\end{itemize}
+
+\subsubsection{Professional
+Presentations}\label{professional-presentations}
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Skyler Mitchell, Stuart Marshall, Stephanie Turnipseed, Luke Burnham,
+  \textbf{César Lizárraga}, Jared Streich, Rob Alba, and Todd C. Mockler
+  (2015)\\``Effect of drought treatments on transpiration rate and
+  stomatal density in \emph{Brachypodium distachyon}.'' Donald Danforth
+  Plant Science Center\\and Missouri Botanical Gardens Joint Fall
+  Symposium, St.~Louis, MO, October 2015\\
+\item
+  \textbf{César A. Lizárraga}, Henry D. Priest, Noah Fahlgren, Rob Alba,
+  and Todd C. Mockler. Bioinformatics Pipelines for Purple False
+  Brome\\(Brachypodium distachyon) Donald Danforth Plant Science Center,
+  St.~Louis, MO. (2015)
+\item
+  \textbf{Cesar Lizarraga}, Stuart Marshall, Bradley Flynn, Nadia
+  Shakoor1 and Todd C. Mockler. PhenoPiSight: Fixed Camera
+  Greenhouse-based Phenotyping Platform. (2016)
+\end{itemize}
+
+\end{document}
