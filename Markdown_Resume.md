@@ -63,7 +63,7 @@ Project Experience
 Bioinformatics Skills
 ---------------------
 
-* NGS data analysis: *RNA-seq, ATAC-seq, ChIP-seq, variant calling*
+* NGS data analysis: *RNA-seq, ATAC-seq, ChIP-seq, variant calling, genome assembly*
 * Biostatistics: *Regression, multiple test correction, modelling, heritability (broad-sense)*
 * Clustering/Dimensionality reduction: *UPGMA, K-means, Agglomerative, hierarchical clustering, PCA*
 
