@@ -13,6 +13,7 @@ Work Experience
     * Develop and document pipelines for analyzing high throughput sequencing and imaging data
     * Analytics and Data Management for the [Brachypodium ENCODE Project][encode]
     * Analytics and Data Management for the [EPSCoR Project][EPSCoR]
+    * Coordinate with Bioinformate Core Director for computational resource management
     * Assist with data analysis whenever requested
 * **July 2014 - Present: [Nanaya][nanaya] (St. Louis, MO)**  
     *Statistician/Back-end developer*
