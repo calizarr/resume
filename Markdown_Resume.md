@@ -65,8 +65,7 @@ Bioinformatics Skills
 
 * NGS data analysis: *RNA-seq, ATAC-seq, ChIP-seq, variant calling*
 * Biostatistics: *Regression, multiple test correction, modelling, heritability (broad-sense)*
-* Clustering analysis data: *UPGMA, K-means, Agglomerative, hierarchical clustering*
-* Databases and repositories: *Ensembl, Phytozome, NCBI Gene Expression Omnibus*
+* Clustering/Dimensionality reduction: *UPGMA, K-means, Agglomerative, hierarchical clustering, PCA*
 
 Computer Skills
 ---------------
@@ -85,7 +84,7 @@ Publications
 
 * Laura Rayhel, B.A., Copper Aitken-Palmer, D.V.M., Ph.D., Priscilla Joyner, B.Sc., B.V.M.S., Carolyn Cray, Ph.D., **César Andrés Lizárraga, B.A.**, Betty Ackerman, M.T. (A.S.C.P.), and Chris Crowe, B.S. Hematology and biochemistry in captive white-naped cranes (*Grus VIPIO*). *Journal of Zoo and Wildlife Medicine 46(4):747-754. http://dx.doi.org/10.1638/2015-0027.1 (2015)*
 
-Professional Presentations
+Professional Presentations (Posters)
 --------------------------
 
 * Skyler Mitchell, Stuart Marshall, Stephanie Turnipseed, Luke Burnham, **César Lizárraga**, Jared Streich, Rob Alba, and Todd C. Mockler (2015) "Effect of drought treatments on transpiration rate and stomatal density in *Brachypodium distachyon*." Donald Danforth Plant Science Center and Missouri Botanical Gardens Joint Fall Symposium, St. Louis, MO, October 2015
