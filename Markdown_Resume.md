@@ -42,7 +42,7 @@ Project Experience
         - [Developed in Python and Bash wrapper script: PyPipe] [pypipe]
     * Develop, maintain, and test a ChIP-seq pipeline for NGS data from Illumina sequencing platform
         - [Developed in Python: PyChIP] [pychip]
-    * Developed high throughput phenotyping pipeline using PlantCV and R for imaging analysis for internal use with LemnaTec high-throughput facility
+    * Develop, maintain, and test a high throughput phenotyping pipeline using PlantCV and R for imaging analysis for internal use with LemnaTec high-throughput facility
 * **Brachypodium ENCODE Project**
     * Mapped forward previous structural *Brachypodium distachyon* annotations to new genome assembly using MAKER
     * Mapped functional domains with InterProScan to the annotations and converted locations to genomic coordinates
