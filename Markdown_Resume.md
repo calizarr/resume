@@ -11,9 +11,8 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
     * Lead a small team (4-5 engineers) in custom appliation development for a strategic partnership client
     * Participated in planning multiple stages of the project at short and medium time phases
     * Regularly interfaced with the client team to ensure needs and desires were met
-    * Using a high level concept, designed and architected an industry leading set of tools that allowed the  
-    client to reduce their research time from weeks and months to days
-    n* Helped prototype, develop, and deploy several services, APIs, and API clients in kubernetes
+    * Using a high level concept, designed and architected an industry leading set of tools that allowed the client to reduce their research time from weeks and months to days
+    * Helped prototype, develop, and deploy several services, APIs, and API clients in kubernetes
   
 * **[Nanaya][nanaya] (St. Louis, MO): July 2014 - Present**  
 *Co-founder/ Infrastructure & Sofware Engineer / Statistician*
