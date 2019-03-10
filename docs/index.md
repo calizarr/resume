@@ -57,8 +57,9 @@ Department of Mathematics, Washington University in St. Louis
 
 * In order of familiarity:
   * Languages: *Scala, Python, R, Bash, Java*
+  * Frameworks: *Akka, Django*
   * Infrastructure & DevOps: *Kubernetes, Helm, Argo Workflow Engine, Ansible*
-  * Operating systems and GNU/Linux: *grep, AWK, sed*
+  * Cloud computing: *AWS, DigitalOcean*
 
 ## Languages ##
 
