@@ -55,12 +55,12 @@ Department of Mathematics, Washington University in St. Louis
 * In order of familiarity:
   * Languages: *Scala, Python, R, Bash, Java*
   * Frameworks: *Akka, Django*
-  * Infrastructure & DevOps: *Kubernetes, Helm, Argo Workflow Engine, Ansible*
+  * Infrastructure & DevOps: *Kubernetes, Argo Workflow Engine, Helm, Ansible, HTCondor*
   * Cloud computing: *AWS, DigitalOcean*
 
 ## Languages ##
 
-* Fluent: *English*, *Spanish*
+* Fluent: *English, Spanish*
 * Intermediate: *Italian*
 
 [Git]: http://github.com/calizarr
