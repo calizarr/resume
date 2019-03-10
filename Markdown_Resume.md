@@ -72,7 +72,7 @@ Department of Mathematics, Washington University in St. Louis
 
 * Skyler Mitchell, Stuart Marshall, Stephanie Turnipseed, Luke Burnham, **César Lizárraga**, Jared Streich, Rob Alba, and Todd C. Mockler (2015) "Effect of drought treatments on transpiration rate and stomatal density in *Brachypodium distachyon*." Donald Danforth Plant Science Center and Missouri Botanical Gardens Joint Fall Symposium, St. Louis, MO, October 2015
 * **César A. Lizárraga**, Henry D. Priest, Noah Fahlgren, Rob Alba, and Todd C. Mockler. Bioinformatics Pipelines for Purple False Brome (Brachypodium distachyon) Donald Danforth Plant Science Center, St. Louis, MO. (2015)
-* **Cesar Lizarraga**, Stuart Marshall, Bradley Flynn, Nadia Shakoor1 and Todd C. Mockler. PhenoPiSight: Fixed Camera Greenhouse-based Phenotyping Platform. (2016)
+* **Cesar Lizarraga**, Stuart Marshall, Bradley Flynn, Nadia Shakoor and Todd C. Mockler. PhenoPiSight: Fixed Camera Greenhouse-based Phenotyping Platform. (2016)
 
 [Git]: http://github.com/calizarr
 [linkedin]: http://www.linkedin.com/in/calizarr
