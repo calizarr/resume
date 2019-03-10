@@ -65,7 +65,6 @@ Department of Mathematics, Washington University in St. Louis
 [linkedin]: http://www.linkedin.com/in/calizarr
 [ddpsc]: https://www.danforthcenter.org/
 [encode]: http://genomicscience.energy.gov/research/DOEUSDA/abstracts/2014mockler_abstract.shtml
-[BHB]: http://www.bensonhillbio.com/
 [nanaya]: http://www.nanaya.co
 [EPSCoR]: https://missouriepscor.org/
 [phenopisight]: https://github.com/calizarr/EPSCoR_Bramble_GH9C
