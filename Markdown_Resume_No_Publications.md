@@ -7,7 +7,7 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
 
 * **[CiBO Technologies][cibo] (St. Louis, MO): July 2017 - Present**  
 *Engagement Engineering Lead (Project Lead / Software Engineer)*
-    * Led a small team (4-5 engineers) in custom appliation development for a strategic partnership client that resulted in a multimillion dollar contract
+    * Led a small team (4-5 engineers) in custom application development for a strategic partnership client that resulted in a multimillion dollar contract
     * Participated in planning multiple stages of the project at different time scales
     * Regularly interfaced with the client team to ensure their needs were met
     * Used a high level concept, designed and architected an industry leading set of tools that allowed the client to reduce their research time from weeks and months to days
