@@ -8,9 +8,9 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
 * **[CiBO Technologies][cibo] (St. Louis, MO): July 2017 - Present**  
 *Engagement Engineering Lead (Project Lead / Software Engineer)*
     * Led a small team (4-5 engineers) in custom application development for a strategic partnership client that resulted in a multimillion dollar contract
-    * Participated in planning multiple stages of the project at different time scales
-    * Regularly interfaced with the client team to ensure their needs were met
-    * Used a high level concept, designed and architected an industry leading set of tools that allowed the client to reduce their research time from weeks and months to days
+    * Produced sprint planning and project planning documentation while working with business development and leadership
+    * Interfaced regularly with various members of the client team to ensure their needs were met
+    * Reduced client research time from months to days using a high level business development and product concept to design and architect an industry leading set of tools
     * Helped prototype, develop, and deploy several services, APIs, and API clients in kubernetes
   
 * **[Nanaya][nanaya] (St. Louis, MO): July 2014 - Present**  
