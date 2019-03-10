@@ -1,5 +1,4 @@
 ---
-Curriculum Vitae
 ---
 
 # César A. Lizárraga #
