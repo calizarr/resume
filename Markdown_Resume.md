@@ -1,50 +1,44 @@
 # César A. Lizárraga #
-
 e-mail: <calizarr@gmail.com>  
 github: [http://github.com/calizarr][git]  
 LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
 
-## Work Experience ##
+## Relevant Experience ##
 
 * **[CiBO Technologies][cibo] (St. Louis, MO): July 2017 - Present**  
 *Engagement Engineering Lead (Project Lead / Software Engineer)*
-    * Lead a small team (4-5 engineers) in custom appliation development for a strategic partnership client
-    * Participated in planning multiple stages of the project at short and medium time phases
-    * Regularly interfaced with the client team to ensure needs and desires were met
-    * Using a high level concept, designed and architected an industry leading set of tools that allowed the client to reduce their research time from weeks and months to days
+    * Led a small team (4-5 engineers) in custom appliation development for a strategic partnership client that resulted in a multimillion dollar contract
+    * Participated in planning multiple stages of the project at different time scales
+    * Regularly interfaced with the client team to ensure their needs were met
+    * Used a high level concept, designed and architected an industry leading set of tools that allowed the client to reduce their research time from weeks and months to days
     * Helped prototype, develop, and deploy several services, APIs, and API clients in kubernetes
   
 * **[Nanaya][nanaya] (St. Louis, MO): July 2014 - Present**  
 *Co-founder/ Infrastructure & Sofware Engineer / Statistician*
-    * Develop, design, and test algorithm(s) from algorithm
-    * Verify that proper statistical procedures are being used within the algorithm(s)
-    * Facilitate communication between developers and R&D Team members
-    * Manage and update infrastructure depending on needs of team
+    * Developed, designed, and tested algorithm(s)
+    * Verified that proper statistical procedures are being used within the algorithm(s)
+    * Facilitated communication between developers and R&D Team members
+    * Managed and updated infrastructure depending on needs of team
   
 * **[Donald Danforth Plant Science Center][ddpsc] (St. Louis, MO)**
     * **October 2016 - July 2017**  
     *Senior Computational Scientist*
         * Provided computational interface for research groups
         * Trained several lab technicians in computational infrastructure use
-        * Developed prototype of Arduino & Raspberry Pi controlled field canopy sensor system: [PheNode][phenode]
+        * [PheNode: Developed prototype of Arduino & Raspberry Pi controlled field canopy sensor system][phenode]
         * [PhenoPiSight: A Fixed Camera Greenhouse-based Phenotyping platform](#phenopisight)
     * **December 2014 - October 2016**  
     *Laboratory Technician (Bioinformatics/Statistics) in Mockler Lab*  
         * Developed, documented, maintained, and tested pipelines for analyzing high throughput sequencing and imaging data
         * Analytics, Data Management, and Development for the [Brachypodium ENCODE Project][encode] and the [EPSCoR Project][EPSCoR]
-        * Coordinate with Bioinformatics Core Director for computational resource management
-        * Assist with data analysis whenever requested
-    
-* **[Benson Hill Biosystems][BHB] (St. Louis, MO): December 2014 - September 2015**  
-*Independent Contractor (Bioinformatics/Statistics)*
-    * Developed a high throughput imaging analysis pipeline for a custom in-house imaging system & an RNA-seq pipeline to discover novel transcripts
-    * Provided statistical consultation when necessary
+        * Coordinated with Bioinformatics Core Director for computational resource management
+        * Assisted with data analysis whenever requested
 
-## Project Experience ##
+## Public Projects ##
 
 #### PhenoPiSight: Fixed Camera Greenhouse-based Phenotyping Platform<a name="phenopisight"></a> ####
 
-  * Using Ansible, automated image capture and transfer of images from 180 Raspberry Pis on a gantry above the greenhouse
+  * Used Ansible to automate image capture and transfer of images from 180 Raspberry Pis on a gantry above the greenhouse
   * Developed pipeline to take captured images and make dense 3d pointcloud reconstructions (+/- 0.5cm accuracy)
   * Trained lab technicians to find phenotypes in 3d reconstructions and compare to ground-based greenhouse measurements
   * [Example of the 3d reconstruction][traitcapture]

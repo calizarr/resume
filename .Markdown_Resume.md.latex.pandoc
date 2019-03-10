@@ -1,7 +1,7 @@
 ;; -*- mode: emacs-lisp -*-
 
 ;; pandoc-mode local settings file for Markdown_Resume.md
-;; saved on 2016.09.03 13:32
+;; saved on 2019.03.10 06:10
 
 ((latexmathml)
  (mathml)
@@ -187,7 +187,7 @@
   ("tex_math_single_backslash")
   ("yaml_metadata_block"))
  (output . "Markdown_Resume.latex")
- (data-dir . "/media/sf_Personal/resume/")
+ (data-dir . "/Users/clizarraga/Documents/resume/")
  (extract-media)
  (file-scope)
  (output-dir . "/media/sf_Personal/resume/")

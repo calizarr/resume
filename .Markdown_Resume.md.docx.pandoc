@@ -1,9 +1,11 @@
 ;; -*- mode: emacs-lisp -*-
 
 ;; pandoc-mode local settings file for Markdown_Resume.md
-;; saved on 2016.09.01 15:50
+;; saved on 2019.03.10 06:16
 
-((latexmathml)
+((verbose)
+ (dpi . 300)
+ (latexmathml)
  (mathml)
  (jsmath)
  (mathjax)
@@ -47,7 +49,7 @@
  (template)
  (variable)
  (no-wrap)
- (columns)
+ (columns . 120)
  (table-of-contents)
  (toc-depth)
  (no-highlight)
@@ -173,7 +175,7 @@
   ("tex_math_single_backslash")
   ("yaml_metadata_block"))
  (output . "Markdown_Resume.docx")
- (data-dir . "/media/sf_Personal/resume/")
+ (data-dir . "/Users/clizarraga/Documents/resume/")
  (extract-media)
- (output-dir . "/media/sf_Personal/resume/")
+ (output-dir . "/Users/clizarraga/Documents/resume/")
  (master-file))
