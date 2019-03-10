@@ -61,13 +61,6 @@ Department of Mathematics, Washington University in St. Louis
 * Fluent: *English*, *Spanish*
 * Intermediate: *Italian*
 
-## Publications ##
-
-* Erica Agnew, Adam Bray, Eric Floro, Nate Ellis, John Gierer, **César Lizárraga**, Darren O'Brien, Madeline Wiechert, Todd C. Mockler, Nadia Shakoor, Christopher N. Topp. Whole‐Plant Manual and Image‐Based Phenotyping in Controlled Environments. *Plant Biology 2(1):1-21. https://doi.org/10.1002/cppb.20044 (2017)*
-* He Huang, Malia A. Gehan, Sarah E. Huss, Sophie Alvarez, **Cesar Lizarraga**, Ellen L. Gruebbling, John Gierer, Michael J. Naldrett, Rebecca K. Bindbeutel, Bradley S. Evans, Todd C. Mockler, Dmitri A. Nusinow. Cross‐species complementation reveals conserved functions for EARLY FLOWERING 3 between monocots and dicots. *Plant Direct 1:4 https://doi.org/10.1002/pld3.18 (2017)*
-* Gehan MA, Fahlgren N, Abbasi A, Berry JC, Callen ST, Chavez L, Doust AN, Feldman MJ, Gilbert KB, Hodge JG, Hoyer JS, Lin A, Liu S, **Lizárraga C**, Lorence A, Miller M, Platon E, Tessman M, Sax T. 2017. PlantCV v2: Image analysis software for high-throughput plant phenotyping. PeerJ 5:e4088 https://doi.org/10.7717/peerj.4088
-* Laura Rayhel, B.A., Copper Aitken-Palmer, D.V.M., Ph.D., Priscilla Joyner, B.Sc., B.V.M.S., Carolyn Cray, Ph.D., **César Andrés Lizárraga, B.A.**, Betty Ackerman, M.T. (A.S.C.P.), and Chris Crowe, B.S. Hematology and biochemistry in captive white-naped cranes (*Grus VIPIO*). *Journal of Zoo and Wildlife Medicine 46(4):747-754. http://dx.doi.org/10.1638/2015-0027.1 (2015)*
-
 [Git]: http://github.com/calizarr
 [linkedin]: http://www.linkedin.com/in/calizarr
 [ddpsc]: https://www.danforthcenter.org/
