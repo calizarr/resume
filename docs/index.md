@@ -27,24 +27,25 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
     * **October 2016 - July 2017**  
     *Senior Computational Scientist*
         * Provided computational interface for research groups
-        * Trained several lab technicians in computational infrastructure use
-        * [PheNode: Developed prototype of Arduino & Raspberry Pi controlled field canopy sensor system][phenode]
+        * Trained lab technicians, research scientists, and graduate students in computational infrastructure use
+        * PheNode: Developed prototype of Arduino & Raspberry Pi controlled field canopy sensor system
+          * https://www.agrelaeco.com/
         * [PhenoPiSight: A Fixed Camera Greenhouse-based Phenotyping platform](#phenopisight)
     * **December 2014 - October 2016**  
     *Laboratory Technician (Bioinformatics/Statistics) in Mockler Lab*  
         * Developed, documented, maintained, and tested pipelines for analyzing high throughput sequencing and imaging data
         * Analytics, Data Management, and Development for the [Brachypodium ENCODE Project][encode] and the [EPSCoR Project][EPSCoR]
         * Coordinated with Bioinformatics Core Director for computational resource management
-        * Assisted with data analysis whenever requested
+        * Performed with data analysis on a routine basis
 
 ## Public Projects ##
 
 #### PhenoPiSight: Fixed Camera Greenhouse-based Phenotyping Platform<a name="phenopisight"></a> ####
 
   * Used Ansible to automate image capture and transfer of images from 180 Raspberry Pis on a gantry above the greenhouse
-  * Developed pipeline to take captured images and make dense 3d pointcloud reconstructions (+/- 0.5cm accuracy)
-  * Trained lab technicians to find phenotypes in 3d reconstructions and compare to ground-based greenhouse measurements
-  * [Example of the 3d reconstruction][traitcapture]
+  * Developed pipeline to take captured images and make dense 3D pointcloud reconstructions (+/- 0.5cm accuracy)
+  * Trained lab technicians to find phenotypes in 3D reconstructions and compare to ground-based greenhouse measurements
+  * [Example of the 3D reconstruction: https://traitcapture.org/pointclouds/by-id/586a428ef7f5667846b1f8a0][traitcapture]
   
 ## Education ##
 
