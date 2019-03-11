@@ -9,7 +9,7 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
 *Engagement Engineering Lead (Project Lead / Software Engineer)*
     * Led a small team (4-5 engineers) in custom application development for a strategic partnership client that resulted in a multimillion dollar contract
     * Produced sprint planning and project planning documentation while working with business development and leadership
-    * Interfaced regularly with various members of the client team to ensure their needs were met
+    * Interfaced multiple times per week with various members of the client team to ensure their needs were met
     * Reduced client research time from months to days using a high level business development and product concept to design and architect an industry leading set of tools
     * Assisted in prototyping, developing, and deploying several services, APIs, and API clients in kubernetes
   
