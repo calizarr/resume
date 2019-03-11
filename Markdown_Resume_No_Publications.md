@@ -33,7 +33,7 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
         * Developed, documented, maintained, and tested pipelines for analyzing high throughput sequencing and imaging data
         * Analytics, data management, and development for the [Brachypodium ENCODE Project][encode] and the [EPSCoR Project][EPSCoR]
         * Coordinated with Bioinformatics Core Director for computational resource management
-        * Performed with data analysis on a routine basis
+        * Performed data analysis on a routine basis
 
 ## Public Projects ##
 
