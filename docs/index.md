@@ -56,10 +56,11 @@ Department of Mathematics, Washington University in St. Louis
 ## Engineering Skills ##
 
 * In order of familiarity:
-  * Languages: *Scala, Python, R, Bash, Java*
+  * Languages: *Scala, Python, R, SQL, Bash, Java*
   * Frameworks: *Akka, Django*
   * Infrastructure & DevOps: *Kubernetes, Argo Workflow Engine, Helm, Ansible, HTCondor*
   * Cloud computing: *AWS, DigitalOcean*
+  * Software: *GNU Emacs, PostgreSQL, IntelliJ IDEA, NGINX, RabbitMQ, Git, Travis CI, Jenkins*
 
 ## Languages ##
 
@@ -89,3 +90,4 @@ Department of Mathematics, Washington University in St. Louis
 [cibo]: https://www.cibotechnologies.com/
 [phenode]: https://www.agrelaeco.com/
 [traitcapture]: https://traitcapture.org/pointclouds/by-id/586a428ef7f5667846b1f8a0
+p
