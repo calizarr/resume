@@ -26,7 +26,7 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
         * Provided computational interface for research groups
         * Trained lab technicians, research scientists, and graduate students in computational infrastructure use
         * PheNode: Developed prototype of Arduino & Raspberry Pi controlled field canopy sensor system
-          * https://www.agrelaeco.com/
+          * [https://www.agrelaeco.com/][phenode]
         * [PhenoPiSight: A Fixed Camera Greenhouse-based Phenotyping platform](#phenopisight)
     * **December 2014 - October 2016**  
     *Laboratory Technician (Bioinformatics/Statistics) in Mockler Lab*  
