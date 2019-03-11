@@ -57,7 +57,7 @@ Department of Mathematics, Washington University in St. Louis
   * Frameworks: *Akka, Django*
   * Infrastructure & DevOps: *Kubernetes, Argo Workflow Engine, Helm, Ansible, HTCondor*
   * Cloud computing: *AWS, DigitalOcean*
-  * Software: *GNU Emacs, PostgreSQL, IntelliJ IDEA, NGINX, RabbitMQ, Git, Travis CI, Jenkins*
+  * Software: *GNU Emacs, Git, PostgreSQL, IntelliJ IDEA, NGINX, Travis CI, Jenkins, RabbitMQ*
 
 ## Languages ##
 
@@ -87,4 +87,3 @@ Department of Mathematics, Washington University in St. Louis
 [cibo]: https://www.cibotechnologies.com/
 [phenode]: https://www.agrelaeco.com/
 [traitcapture]: https://traitcapture.org/pointclouds/by-id/586a428ef7f5667846b1f8a0
-p
