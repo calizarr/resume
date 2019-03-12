@@ -15,11 +15,11 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
   
 * **[Nanaya][nanaya] (St. Louis, MO): July 2014 - Present**  
 *Co-founder / Infrastructure & Sofware Engineer / Statistician*
-    * Supported and managed infrastructure for application with 50 users per day and about 300,000 total
+    * Supported, managed, and updated infrastructure for application averaging 50 users per day and about 300,000 total
     * Migrated original application infrastructure to a container based model
     * Facilitated communication between developers and R&D Team members
-    * Managed and updated infrastructure depending on needs of team
-    * Developed, verified, and tested algorithm(s)
+    * Managed team member contributions and source code version control
+    * Developed, verified, and tested algorithm(s) for application
   
 * **[Donald Danforth Plant Science Center][ddpsc] (St. Louis, MO)**
     * **October 2016 - July 2017**  
