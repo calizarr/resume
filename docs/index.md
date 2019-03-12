@@ -14,14 +14,15 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
     * Produced sprint planning and project planning documentation while working with business development and leadership
     * Interfaced multiple times per week with various members of the client team to ensure their needs were met
     * Reduced client research time from months to days using a high level business development and product concept to design and architect an industry leading set of tools
-    * Assisted in prototyping, developing, and deploying several services, APIs, and API clients in kubernetes
+    * Developed several services, APIs, and API clients in Scala and Python from prototype to deployment
   
 * **[Nanaya][nanaya] (St. Louis, MO): July 2014 - Present**  
 *Co-founder / Infrastructure & Sofware Engineer / Statistician*
-    * Developed, designed, and tested algorithm(s)
-    * Verified that proper statistical procedures are being used within the algorithm(s)
+    * Supported and managed infrastructure for application with 50 users per day and about 300,000 total
+    * Migrated original application infrastructure to a container based model
     * Facilitated communication between developers and R&D Team members
     * Managed and updated infrastructure depending on needs of team
+    * Developed, verified, and tested algorithm(s)
   
 * **[Donald Danforth Plant Science Center][ddpsc] (St. Louis, MO)**
     * **October 2016 - July 2017**  
@@ -34,7 +35,7 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
     * **December 2014 - October 2016**  
     *Laboratory Technician (Bioinformatics/Statistics) in Mockler Lab*  
         * Developed, documented, maintained, and tested pipelines for analyzing high throughput sequencing and imaging data
-        * Analytics, Data Management, and Development for the [Brachypodium ENCODE Project][encode] and the [EPSCoR Project][EPSCoR]
+        * Analytics, data management, and development for the [Brachypodium ENCODE Project][encode] and the [EPSCoR Project][EPSCoR]
         * Coordinated with Bioinformatics Core Director for computational resource management
         * Performed data analysis on a routine basis
 

@@ -11,14 +11,15 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
     * Produced sprint planning and project planning documentation while working with business development and leadership
     * Interfaced multiple times per week with various members of the client team to ensure their needs were met
     * Reduced client research time from months to days using a high level business development and product concept to design and architect an industry leading set of tools
-    * Assisted in prototyping, developing, and deploying several services, APIs, and API clients in kubernetes
+    * Developed several services, APIs, and API clients in Scala and Python from prototype to deployment
   
 * **[Nanaya][nanaya] (St. Louis, MO): July 2014 - Present**  
-*Co-founder/ Infrastructure & Sofware Engineer / Statistician*
-    * Developed, designed, and tested algorithm(s)
-    * Verified that proper statistical procedures are being used within the algorithm(s)
+*Co-founder / Infrastructure & Sofware Engineer / Statistician*
+    * Supported and managed infrastructure for application with 50 users per day and about 300,000 total
+    * Migrated original application infrastructure to a container based model
     * Facilitated communication between developers and R&D Team members
     * Managed and updated infrastructure depending on needs of team
+    * Developed, verified, and tested algorithm(s)
   
 * **[Donald Danforth Plant Science Center][ddpsc] (St. Louis, MO)**
     * **October 2016 - July 2017**  
@@ -40,8 +41,8 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
 #### PhenoPiSight: Fixed Camera Greenhouse-based Phenotyping Platform<a name="phenopisight"></a> ####
 
   * Used Ansible to automate image capture and transfer of images from 180 Raspberry Pis on a gantry above the greenhouse
-  * Developed pipeline to take captured images and make dense 3d pointcloud reconstructions (+/- 0.5cm accuracy)
-  * Trained lab technicians to find phenotypes in 3d reconstructions and compare to ground-based greenhouse measurements
+  * Developed pipeline to take captured images and make dense 3D pointcloud reconstructions (+/- 0.5cm accuracy)
+  * Trained lab technicians to find phenotypes in 3D reconstructions and compare to ground-based greenhouse measurements
   * [Example of the 3D reconstruction: https://traitcapture.org/pointclouds/by-id/586a428ef7f5667846b1f8a0][traitcapture]
   
 ## Education ##
