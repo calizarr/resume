@@ -1,6 +1,6 @@
 ;; -*- mode: lisp-data -*-
 
-;; pandoc-mode local settings file for Markdown_Resume.md
+;; pandoc-mode project settings file
 ;; saved on 2025.10.16 23:01
 
 ((latexmathml) (mathml) (jsmath) (mathjax) (gladtex) (mimetex)
