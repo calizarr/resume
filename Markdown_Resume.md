@@ -46,7 +46,7 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
   * Provided computational interface for research groups
   * Trained lab technicians, research scientists, and graduate students in computational infrastructure use
   * PheNode: Developed prototype of Arduino & Raspberry Pi controlled field canopy sensor system which became [AgrelaEco][phenode]
-    * [PhenoPiSight: A Fixed Camera Greenhouse-based Phenotyping platform][phenopisight]
+  * [PhenoPiSight: A Fixed Camera Greenhouse-based Phenotyping platform][phenopisight]
 
 ***LabTech (Bioinformatics/Statistics) Mockler Lab*** → **December 2014 - October 2016**
 
@@ -63,7 +63,7 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
     * Managed by [OpenTofu][opentofu] with CI/CD provided by [ArgoCD][argocd] and [Tekton][tekton] with support from [Argo Workflows][argoworkflows]
 * DHCP and DNS managed by [PiHole][pihole] and [Unbound][unbound]
 * Hosting a variety of projects such as
-    * [Reconya][reconya],[ConvertX][convertx], [Homepage Dashboard][hpd], [Plex][plex], and more
+    * [Reconya][reconya], [ConvertX][convertx], [Homepage Dashboard][hpd], [Plex][plex], and more
 
 ### Public Projects
 
@@ -112,11 +112,11 @@ Department of Mathematics, Washington University in St. Louis
 
 ## Professional Presentations (Posters) ##
 
-* Skyler Mitchell, Stuart Marshall, Stephanie Turnipseed, Luke Burnham, **César Lizárraga**, Jared Streich, Rob Alba, and Todd C. Mockler (2015) "Effect of drought treatments on transpiration rate and stomatal density in *Brachypodium distachyon*." Donald Danforth Plant Science Center and Missouri Botanical Gardens Joint Fall Symposium, St. Louis, MO, October 2015
+* Skyler Mitchell, Stuart Marshall, Stephanie Turnipseed, Luke Burnham, **César Lizárraga**, Jared Streich, Rob Alba, and Todd C. Mockler (2015) **"Effect of drought treatments on transpiration rate and stomatal density in *Brachypodium distachyon*."** Donald Danforth Plant Science Center and Missouri Botanical Gardens Joint Fall Symposium, St. Louis, MO, October 2015
 
-* **César A. Lizárraga**, Henry D. Priest, Noah Fahlgren, Rob Alba, and Todd C. Mockler. Bioinformatics Pipelines for Purple False Brome (Brachypodium distachyon) Donald Danforth Plant Science Center, St. Louis, MO. (2015)
+* **César A. Lizárraga**, Henry D. Priest, Noah Fahlgren, Rob Alba, and Todd C. Mockler. **Bioinformatics Pipelines for Purple False Brome (Brachypodium distachyon) Donald Danforth Plant Science Center**, St. Louis, MO. (2015)
 
-* **Cesar Lizarraga**, Stuart Marshall, Bradley Flynn, Nadia Shakoor and Todd C. Mockler. PhenoPiSight: Fixed Camera Greenhouse-based Phenotyping Platform. (2016)
+* **Cesar Lizarraga**, Stuart Marshall, Bradley Flynn, Nadia Shakoor and Todd C. Mockler. **PhenoPiSight: Fixed Camera Greenhouse-based Phenotyping Platform**. (2016)
 
 [Git]: http://github.com/calizarr
 [linkedin]: http://www.linkedin.com/in/calizarr
@@ -142,5 +142,4 @@ Department of Mathematics, Washington University in St. Louis
 [pihole]: https://pi-hole.net/
 [unbound]: https://nlnetlabs.nl/projects/unbound/about/
 [talos]: https://www.talos.dev/
-
 [longitudinal]: https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1278802
