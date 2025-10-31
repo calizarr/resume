@@ -14,11 +14,11 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
 ***Interim Lead of Infrastructure (Software Enginer)*** → **April 2020 - March 2021**
 
   * Lead the infrastructure team, planned the near future, and collaboratively made decisions with the leadership team as a whole.
-  * Support the data science / computer vision team in their research and development by helping set up and maintain tools that allow for massive parallelization and ease of use within our k8s clusters e.g. Ray, MLFlow, etc. and new clusters when necessary
-  * Support general engineering teams in their goals by helping with CI/CD, deployment configurations for all environments, and general knowledge involved in our infrastructure as a whole.
+  * Support the data science / computer vision team in their research and development by setting up and maintaining tools that allow for massive parallelization and ease of use within our k8s clusters e.g. Ray, MLFlow, etc. and new clusters when necessary
+  * Support general engineering teams in their goals by helping with CI/CD (maintenance, setup, etc.), deployment configurations for all environments, and general knowledge involved in our infrastructure as a whole.
   * Maintain, support, and improve upon our currently existing k8s clusters and the applications that help them run smoothly including but not limited to webhooks, Linkerd, Prometheus, Grafana, ArgoCD, Argo Workflows, etc.
   * Maintain, support, and improve the cloud infrastructure, currently AWS, including but not limited to DynamoDB, IAM, S3 Buckets, Route53, EC2 Instances, etc.
-  * Help architect and design new infrastructure policies, systems, etc. as well as improve upon or refactor currently existing systems for the purpose of ease of use, reliability, and redundancy
+  * Architect and design new infrastructure policies, systems, etc. as well as improve upon or refactor currently existing systems for the purpose of ease of use, reliability, and redundancy
   * Coordinate with our team and others across the organization in terms of security wihin our clusters, public facing domains, cloud infrastructure, etc. for goals such as SOC2 Compliance, AWS Architecture reviews, Escrow responsibilities, etc.
 
 ***Engagement Engineering Lead (Project Lead / Software Engineer)*** → **July 2017 - April 2020**

@@ -14,11 +14,11 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
 ***Interim Lead of Infrastructure (Software Enginer)*** → **April 2020 - March 2021**
 
   * Lead the infrastructure team, planned the near future, and collaboratively made decisions with the leadership team as a whole.
-  * Support the data science / computer vision team in their research and development by helping set up and maintain tools that allow for massive parallelization and ease of use within our k8s clusters e.g. Ray, MLFlow, etc. and new clusters when necessary
-  * Support general engineering teams in their goals by helping with CI/CD, deployment configurations for all environments, and general knowledge involved in our infrastructure as a whole.
+  * Support the data science / computer vision team in their research and development by setting up and maintaining tools that allow for massive parallelization and ease of use within our k8s clusters e.g. Ray, MLFlow, etc. and new clusters when necessary
+  * Support general engineering teams in their goals by helping with CI/CD (maintenance, setup, etc.), deployment configurations for all environments, and general knowledge involved in our infrastructure as a whole.
   * Maintain, support, and improve upon our currently existing k8s clusters and the applications that help them run smoothly including but not limited to webhooks, Linkerd, Prometheus, Grafana, ArgoCD, Argo Workflows, etc.
   * Maintain, support, and improve the cloud infrastructure, currently AWS, including but not limited to DynamoDB, IAM, S3 Buckets, Route53, EC2 Instances, etc.
-  * Help architect and design new infrastructure policies, systems, etc. as well as improve upon or refactor currently existing systems for the purpose of ease of use, reliability, and redundancy
+  * Architect and design new infrastructure policies, systems, etc. as well as improve upon or refactor currently existing systems for the purpose of ease of use, reliability, and redundancy
   * Coordinate with our team and others across the organization in terms of security wihin our clusters, public facing domains, cloud infrastructure, etc. for goals such as SOC2 Compliance, AWS Architecture reviews, Escrow responsibilities, etc.
 
 ***Engagement Engineering Lead (Project Lead / Software Engineer)*** → **July 2017 - April 2020**
@@ -46,7 +46,7 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
   * Provided computational interface for research groups
   * Trained lab technicians, research scientists, and graduate students in computational infrastructure use
   * PheNode: Developed prototype of Arduino & Raspberry Pi controlled field canopy sensor system which became [AgrelaEco][phenode]
-    * [PhenoPiSight: A Fixed Camera Greenhouse-based Phenotyping platform][phenopisight]
+  * [PhenoPiSight: A Fixed Camera Greenhouse-based Phenotyping platform][phenopisight]
 
 ***LabTech (Bioinformatics/Statistics) Mockler Lab*** → **December 2014 - October 2016**
 
@@ -63,7 +63,7 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
     * Managed by [OpenTofu][opentofu] with CI/CD provided by [ArgoCD][argocd] and [Tekton][tekton] with support from [Argo Workflows][argoworkflows]
 * DHCP and DNS managed by [PiHole][pihole] and [Unbound][unbound]
 * Hosting a variety of projects such as
-    * [Reconya][reconya],[ConvertX][convertx], [Homepage Dashboard][hpd], [Plex][plex], and more
+    * [Reconya][reconya], [ConvertX][convertx], [Homepage Dashboard][hpd], [Plex][plex], and more
 
 ### Public Projects
 
@@ -112,11 +112,11 @@ Department of Mathematics, Washington University in St. Louis
 
 ## Professional Presentations (Posters) ##
 
-* Skyler Mitchell, Stuart Marshall, Stephanie Turnipseed, Luke Burnham, **César Lizárraga**, Jared Streich, Rob Alba, and Todd C. Mockler (2015) "Effect of drought treatments on transpiration rate and stomatal density in *Brachypodium distachyon*." Donald Danforth Plant Science Center and Missouri Botanical Gardens Joint Fall Symposium, St. Louis, MO, October 2015
+* Skyler Mitchell, Stuart Marshall, Stephanie Turnipseed, Luke Burnham, **César Lizárraga**, Jared Streich, Rob Alba, and Todd C. Mockler (2015) **"Effect of drought treatments on transpiration rate and stomatal density in *Brachypodium distachyon*."** Donald Danforth Plant Science Center and Missouri Botanical Gardens Joint Fall Symposium, St. Louis, MO, October 2015
 
-* **César A. Lizárraga**, Henry D. Priest, Noah Fahlgren, Rob Alba, and Todd C. Mockler. Bioinformatics Pipelines for Purple False Brome (Brachypodium distachyon) Donald Danforth Plant Science Center, St. Louis, MO. (2015)
+* **César A. Lizárraga**, Henry D. Priest, Noah Fahlgren, Rob Alba, and Todd C. Mockler. **Bioinformatics Pipelines for Purple False Brome (Brachypodium distachyon) Donald Danforth Plant Science Center**, St. Louis, MO. (2015)
 
-* **Cesar Lizarraga**, Stuart Marshall, Bradley Flynn, Nadia Shakoor and Todd C. Mockler. PhenoPiSight: Fixed Camera Greenhouse-based Phenotyping Platform. (2016)
+* **Cesar Lizarraga**, Stuart Marshall, Bradley Flynn, Nadia Shakoor and Todd C. Mockler. **PhenoPiSight: Fixed Camera Greenhouse-based Phenotyping Platform**. (2016)
 
 [Git]: http://github.com/calizarr
 [linkedin]: http://www.linkedin.com/in/calizarr
@@ -142,5 +142,4 @@ Department of Mathematics, Washington University in St. Louis
 [pihole]: https://pi-hole.net/
 [unbound]: https://nlnetlabs.nl/projects/unbound/about/
 [talos]: https://www.talos.dev/
-
 [longitudinal]: https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1278802
