@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # Make pdf of CV
 pandoc -s -V geometry:margin=1in -V urlcolor=cyan -o Cesar_Lizarraga_CV.pdf Markdown_Resume.md

@@ -5,9 +5,9 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
 
 ## Relevant Experience ##
 
-**[CiBO Technologies][cibo] (St. Louis, MO): July 2017 - Present**
+**[CiBO Technologies][cibo] (St. Louis, MO): July 2017 - October 31, 2025**
 
-***Senior Software Engineer (Infrastructure)*** → **March 2021 - Present**
+***Senior Software Engineer (Infrastructure)*** → **March 2021 - October 31, 2025**
 
   * The description from Interim Lead of Infrastructure applies except for the first bullet point.
 
