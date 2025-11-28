@@ -11,7 +11,7 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
 
   * The description from Interim Lead of Infrastructure applies except for the first bullet point.
 
-***Interim Lead of Infrastructure (Software Enginer)*** → **April 2020 - March 2021**
+***Interim Lead of Infrastructure*** → **April 2020 - March 2021**
 
   * Lead the infrastructure team, planned the near future, and collaboratively made decisions with the leadership team as a whole.
   * Support the data science / computer vision team in their research and development by setting up and maintaining tools that allow for massive parallelization and ease of use within our k8s clusters e.g. Ray, MLFlow, etc. and new clusters when necessary
