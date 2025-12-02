@@ -1,4 +1,4 @@
-# César A. Lizárraga #
+# César Andrés Lizárraga #
 email: <calizarr@gmail.com>
 github: [http://github.com/calizarr][git]
 LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
