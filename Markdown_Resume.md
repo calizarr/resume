@@ -3,6 +3,12 @@ email: <calizarr@gmail.com>
 github: [http://github.com/calizarr][git]
 LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
 
+## Leadership/Management Summary
+  * Infrastructure and engineering team leadership (2-8 engineers)
+  * Strategic planning and cross-functional collaboration with executive leadership
+  * Client relationship management for strategic partnerships
+  * Technical mentorship and training (10+ staff members)
+
 ## Relevant Experience ##
 
 **[CiBO Technologies][cibo] (St. Louis, MO): July 2017 - October 31, 2025**
@@ -13,46 +19,44 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
 
 ***Interim Lead of Infrastructure*** → **April 2020 - March 2021**
 
-  * Lead the infrastructure team, planned the near future, and collaboratively made decisions with the leadership team as a whole.
-  * Support the data science / computer vision team in their research and development by setting up and maintaining tools that allow for massive parallelization and ease of use within our k8s clusters e.g. Ray, MLFlow, etc. and new clusters when necessary
-  * Support general engineering teams in their goals by helping with CI/CD (maintenance, setup, etc.), deployment configurations for all environments, and general knowledge involved in our infrastructure as a whole.
+  * Led the infrastructure team of 2-4 engineers, developed strategic roadmap and technical direction for infrastructure, and collaboratively made decisions with the leadership team as a whole.
+  * Architect and design new infrastructure policies, systems, etc. as well as improve upon or refactor currently existing systems for the purpose of ease of use, reliability, and redundancy
+  * Coordinate with our team and others across the organization in terms of security wihin our clusters, public facing domains, cloud infrastructure, etc.
+  * Collaborated across the organization for goals such as SOC2 Compliance, AWS Architecture reviews, Escrow responsibilities, etc.
   * Maintain, support, and improve upon our currently existing k8s clusters and the applications that help them run smoothly including but not limited to webhooks, Linkerd, Prometheus, Grafana, ArgoCD, Argo Workflows, etc.
   * Maintain, support, and improve the cloud infrastructure, currently AWS, including but not limited to DynamoDB, IAM, S3 Buckets, Route53, EC2 Instances, etc.
-  * Architect and design new infrastructure policies, systems, etc. as well as improve upon or refactor currently existing systems for the purpose of ease of use, reliability, and redundancy
-  * Coordinate with our team and others across the organization in terms of security wihin our clusters, public facing domains, cloud infrastructure, etc. for goals such as SOC2 Compliance, AWS Architecture reviews, Escrow responsibilities, etc.
+  * Support general engineering teams in their goals by helping with CI/CD (maintenance, setup, etc.), deployment configurations for all environments, and general knowledge involved in our infrastructure as a whole.
+  * Support the data science / computer vision team in their research and development by setting up and maintaining tools that allow for massive parallelization and ease of use within our k8s clusters e.g. Ray, MLFlow, etc. and new clusters when necessary
 
 ***Engagement Engineering Lead (Project Lead / Software Engineer)*** → **July 2017 - April 2020**
 
   * Led a small team (4-5 engineers) in custom application development for a strategic partnership client that resulted in a multimillion dollar contract
+  * Reduced client research time from months to days using a high level business development and product concept to design and architect an industry leading set of tools
   * Produced sprint planning and project planning documentation while working with business development and leadership
   * Interfaced multiple times per week with various members of the client team to ensure their needs were met
-  * Reduced client research time from months to days using a high level business development and product concept to design and architect an industry leading set of tools
   * Developed several services, APIs, and API clients in Scala and Python from prototype to deployment
 
 **[Nanaya][nanaya] (St. Louis, MO): July 2014 - Present**
 
 ***Co-founder / Infrastructure & Sofware Engineer / Statistician***
 
+  * Led technical review process and managed team contributions across version control
   * Supported, managed, and updated infrastructure for application averaging 50 users per day and about 300,000 total
-  * Migrated original application infrastructure to a container based model
   * Facilitated communication between developers and R&D Team members
-  * Managed team member contributions and source code version control
-  * Developed, verified, and tested algorithm(s) for application
+  * Migrated original application infrastructure to a container based model
+  * Developed, verified, and tested algorithm(s) for the application
 
 **[Donald Danforth Plant Science Center][ddpsc] (St. Louis, MO)**
 
-***Senior Computational Scientist*** → **October 2016 - July 2017**
+***Senior Computational Scientist*** → **December 2014 - July 2017**
 
-  * Provided computational interface for research groups
-  * Trained lab technicians, research scientists, and graduate students in computational infrastructure use
+  * Trained 10+ lab technicians, research scientists, and graduate students in computational infrastructure use and statistics
+  * Partnered with Bioinformatics Core Director to manage computational resource allocation across multiple projects and labs
+  * Coordinated and managed analytics, data, and development for the [Brachypodium ENCODE Project][encode] and the [EPSCoR Project][EPSCoR]
+  * Developed, documented, maintained, and tested pipelines for analyzing high throughput sequencing and imaging data
+  * Provided several computational interfaces for research groups per specific needs
   * PheNode: Developed prototype of Arduino & Raspberry Pi controlled field canopy sensor system which became [AgrelaEco][phenode]
   * [PhenoPiSight: A Fixed Camera Greenhouse-based Phenotyping platform][phenopisight]
-
-***LabTech (Bioinformatics/Statistics) Mockler Lab*** → **December 2014 - October 2016**
-
-  * Developed, documented, maintained, and tested pipelines for analyzing high throughput sequencing and imaging data
-  * Analytics, data management, and development for the [Brachypodium ENCODE Project][encode] and the [EPSCoR Project][EPSCoR]
-  * Coordinated with Bioinformatics Core Director for computational resource management
   * Performed data analysis on a routine basis
 
 ## Projects ##
