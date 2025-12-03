@@ -23,10 +23,12 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
   * Architect and design new infrastructure policies, systems, etc. as well as improve upon or refactor currently existing systems for the purpose of ease of use, reliability, and redundancy
   * Coordinate with our team and others across the organization in terms of security wihin our clusters, public facing domains, cloud infrastructure, etc.
   * Collaborated across the organization for goals such as SOC2 Compliance, AWS Architecture reviews, Escrow responsibilities, etc.
-  * Maintain, support, and improve upon our currently existing k8s clusters and the applications that help them run smoothly including but not limited to webhooks, Linkerd, Prometheus, Grafana, ArgoCD, Argo Workflows, etc.
-  * Maintain, support, and improve the cloud infrastructure, currently AWS, including but not limited to DynamoDB, IAM, S3 Buckets, Route53, EC2 Instances, etc.
+  * Deploy, maintain, support, and improve upon our currently existing kubernetes (k8s) clusters and the applications that help them run smoothly including but not limited to webhooks, Linkerd, Prometheus, Grafana, ArgoCD, Argo Workflows, etc.
+  * Enhanced kubernetes (k8s) clusters by writing Admission Webhooks in Golang, adding services in Python and Golang, and Argo (Cron)Workflows in BASH to handle miscellaneous operations not included by default.
+  * Contribute to open source projects where necessary to avoid forking our own internal versions when a fix could be provided via pull request
+  * Deploy, maintain, support, and improve the cloud infrastructure, currently AWS, including but not limited to DynamoDB, IAM, S3 Buckets, Route53, EC2 Instances, etc.
   * Support general engineering teams in their goals by helping with CI/CD (maintenance, setup, etc.), deployment configurations for all environments, and general knowledge involved in our infrastructure as a whole.
-  * Support the data science / computer vision team in their research and development by setting up and maintaining tools that allow for massive parallelization and ease of use within our k8s clusters e.g. Ray, MLFlow, etc. and new clusters when necessary
+  * Support the data science / computer vision team in their research and development by setting up and maintaining tools that allow for massive parallelization and ease of use within our kubernetes (k8s) clusters e.g. Ray, MLFlow, etc. and new clusters when necessary
 
 ***Engagement Engineering Lead (Project Lead / Software Engineer)*** → **July 2017 - April 2020**
 
@@ -62,7 +64,7 @@ LinkedIn: [http://linkedin.com/in/calizarr][linkedin]
 ## Projects ##
 
 ### Alvoiarko Homelab ###
-* 3-4 node Kubernetes cluster
+* 3-4 node Kubernetes (K8s) cluster
     * [Talos Images][talos], [Cilium eBPF Networking][cilium], [Proxmox][proxmox], Bare-metal nodes
     * Managed by [OpenTofu][opentofu] with CI/CD provided by [ArgoCD][argocd] and [Tekton][tekton] with support from [Argo Workflows][argoworkflows]
 * DHCP and DNS managed by [PiHole][pihole] and [Unbound][unbound]
@@ -86,10 +88,10 @@ Department of Mathematics, Washington University in St. Louis
 
 ## Engineering Skills ##
 
-* In order of familiarity:
-  * Languages: *Scala, Python, R, SQL, Bash, Java*
+* In no particular order:
+  * Languages: *Golang, Scala, Python, BASH, R, SQL, Java*
   * Frameworks: *Akka, Django*
-  * Infrastructure & DevOps: *Kubernetes, Argo Workflow Engine, Helm, Ansible, HTCondor*
+  * Infrastructure & DevOps: *Kubernetes (K8s), Argo Workflow Engine, Helm, Ansible, HTCondor*
   * Cloud computing: *AWS, DigitalOcean*
   * Software: *GNU Emacs, Git, PostgreSQL, IntelliJ IDEA, NGINX, Travis CI, Jenkins, RabbitMQ*
 
