@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Markdown_CV</title>
+  <style>
+
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+  <style type="text/css">
+html {
+font-size: 100%;
+overflow-y: scroll;
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+}
+body {
+color: #444;
+font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+font-size: 12px;
+line-height: 1.7;
+padding: 1em;
+margin: auto;
+max-width: 42em;
+background: #fefefe;
+}
+a {
+color: #0645ad;
+text-decoration: none;
+}
+a:visited {
+color: #0b0080;
+}
+a:hover {
+color: #06e;
+}
+a:active {
+color: #faa700;
+}
+a:focus {
+outline: thin dotted;
+}
+*::-moz-selection {
+background: rgba(255, 255, 0, 0.3);
+color: #000;
+}
+*::selection {
+background: rgba(255, 255, 0, 0.3);
+color: #000;
+}
+a::-moz-selection {
+background: rgba(255, 255, 0, 0.3);
+color: #0645ad;
+}
+a::selection {
+background: rgba(255, 255, 0, 0.3);
+color: #0645ad;
+}
+p {
+margin: 1em 0;
+}
+img {
+max-width: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+color: #111;
+line-height: 125%;
+margin-top: 2em;
+font-weight: normal;
+}
+h4, h5, h6 {
+font-weight: bold;
+}
+h1 {
+font-size: 2.5em;
+}
+h2 {
+font-size: 2em;
+}
+h3 {
+font-size: 1.5em;
+}
+h4 {
+font-size: 1.2em;
+}
+h5 {
+font-size: 1em;
+}
+h6 {
+font-size: 0.9em;
+}
+blockquote {
+color: #666666;
+margin: 0;
+padding-left: 3em;
+border-left: 0.5em #EEE solid;
+}
+hr {
+display: block;
+height: 2px;
+border: 0;
+border-top: 1px solid #aaa;
+border-bottom: 1px solid #eee;
+margin: 1em 0;
+padding: 0;
+}
+pre, code, kbd, samp {
+color: #000;
+font-family: monospace, monospace;
+_font-family: 'courier new', monospace;
+font-size: 0.98em;
+}
+pre {
+white-space: pre;
+white-space: pre-wrap;
+word-wrap: break-word;
+}
+b, strong {
+font-weight: bold;
+}
+dfn {
+font-style: italic;
+}
+ins {
+background: #ff9;
+color: #000;
+text-decoration: none;
+}
+mark {
+background: #ff0;
+color: #000;
+font-style: italic;
+font-weight: bold;
+}
+sub, sup {
+font-size: 75%;
+line-height: 0;
+position: relative;
+vertical-align: baseline;
+}
+sup {
+top: -0.5em;
+}
+sub {
+bottom: -0.25em;
+}
+ul, ol {
+margin: 1em 0;
+padding: 0 0 0 2em;
+}
+li p:last-child {
+margin-bottom: 0;
+}
+ul ul, ol ol {
+margin: .3em 0;
+}
+dl {
+margin-bottom: 1em;
+}
+dt {
+font-weight: bold;
+margin-bottom: .8em;
+}
+dd {
+margin: 0 0 .8em 2em;
+}
+dd:last-child {
+margin-bottom: 0;
+}
+img {
+border: 0;
+-ms-interpolation-mode: bicubic;
+vertical-align: middle;
+}
+figure {
+display: block;
+text-align: center;
+margin: 1em 0;
+}
+figure img {
+border: none;
+margin: 0 auto;
+}
+figcaption {
+font-size: 0.8em;
+font-style: italic;
+margin: 0 0 .8em;
+}
+table {
+margin-bottom: 2em;
+border-bottom: 1px solid #ddd;
+border-right: 1px solid #ddd;
+border-spacing: 0;
+border-collapse: collapse;
+}
+table th {
+padding: .2em 1em;
+background-color: #eee;
+border-top: 1px solid #ddd;
+border-left: 1px solid #ddd;
+}
+table td {
+padding: .2em 1em;
+border-top: 1px solid #ddd;
+border-left: 1px solid #ddd;
+vertical-align: top;
+}
+.author {
+font-size: 1.2em;
+text-align: center;
+}
+@media only screen and (min-width: 480px) {
+body {
+font-size: 14px;
+}
+}
+@media only screen and (min-width: 768px) {
+body {
+font-size: 16px;
+}
+}
+@media print {
+* {
+background: transparent !important;
+color: black !important;
+filter: none !important;
+-ms-filter: none !important;
+}
+body {
+font-size: 12pt;
+max-width: 100%;
+}
+a, a:visited {
+text-decoration: underline;
+}
+hr {
+height: 1px;
+border: 0;
+border-bottom: 1px solid black;
+}
+a[href]:after {
+content: " (" attr(href) ")";
+}
+abbr[title]:after {
+content: " (" attr(title) ")";
+}
+.ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after {
+content: "";
+}
+pre, blockquote {
+border: 1px solid #999;
+padding-right: 1em;
+page-break-inside: avoid;
+}
+tr, img {
+page-break-inside: avoid;
+}
+img {
+max-width: 100% !important;
+}
+@page :left {
+margin: 15mm 20mm 15mm 10mm;
+}
+@page :right {
+margin: 15mm 10mm 15mm 20mm;
+}
+p, h2, h3 {
+orphans: 3;
+widows: 3;
+}
+h2, h3 {
+page-break-after: avoid;
+}
+}
+</style>
+</head>
+<body>
+<h1 id="césar-andrés-lizárraga">César Andrés Lizárraga</h1>
+<p><strong>Senior/Staff Infrastructure Engineer | Software
+Architect</strong><br />
+St. Louis, MO | <a href="mailto:calizarr@gmail.com" class="email">calizarr@gmail.com</a><br />
+github: <a href="http://github.com/calizarr">http://github.com/calizarr</a><br />
+LinkedIn: <a href="http://www.linkedin.com/in/calizarr">http://linkedin.com/in/calizarr</a></p>
+<hr />
+<h2 id="professional-summary">Professional Summary</h2>
+<p>Strategic and hands-on <strong>Senior Infrastructure
+Engineer</strong> with over 15 years of experience in cloud-native
+architecture, Kubernetes orchestration, and large-scale software
+development. Proven expertise in leading cross-functional teams to
+deliver high-availability systems, including architecting platforms that
+secured multimillion-dollar contracts. Adept at bridging the gap between
+low-level hardware (IoT/Embedded) and high-level cloud infrastructure to
+drive innovation and operational excellence.</p>
+<hr />
+<h2 id="technical-skills">Technical Skills</h2>
+<ul>
+<li><strong>Infrastructure &amp; DevOps:</strong> <a href="https://kubernetes.io/">Kubernetes (K8s)</a>, <a href="https://argo-cd.readthedocs.io/en/stable/">ArgoCD</a>, <a href="https://argoproj.github.io/workflows/">Argo Workflows</a>, <a href="https://opentofu.org/">OpenTofu</a>/<a href="https://developer.hashicorp.com/terraform">Terraform</a>, <a href="https://docs.ansible.com/">Ansible</a>, <a href="https://cilium.io/">Cilium eBPF</a>, <a href="https://www.talos.dev/">Talos Linux</a>, <a href="https://www.proxmox.com/en/">Proxmox</a>, Bare-metal.</li>
+<li><strong>Languages &amp; Frameworks:</strong> Golang (Learned on the
+job), Python (<strong>Django, FastAPI</strong>), <strong>Scala</strong>
+(Learned on the job), BASH, SQL, Java.</li>
+<li><strong>Cloud Platforms:</strong> AWS (EC2, S3, DynamoDB, IAM,
+Route53, GuardDuty, WAF), DigitalOcean.</li>
+<li><strong>Databases &amp; Data Platforms:</strong> PostgreSQL, AWS
+RDS, SQLite, DynamoDB, Ray, MLFlow.</li>
+<li><strong>Observability &amp; Reliability:</strong> Prometheus,
+Grafana, Linkerd, ELK Stack, Incident Response, Postmortem Leadership,
+<a href="https://pi-hole.net/">PiHole</a>/<a href="https://nlnetlabs.nl/projects/unbound/about/">Unbound</a>.</li>
+<li><strong>Security &amp; Compliance:</strong> AWS WAF, AWS GuardDuty,
+SSL/TLS Encryption-in-transit, <strong>OSS Review Toolkit
+(ORT)</strong>, SOC2 Compliance, Dependency Vulnerability
+Remediation.</li>
+<li><strong>Hardware &amp; IoT:</strong> Raspberry Pi (4b, Pico 2W),
+Arduino, Logic Analyzers, I2C/SPI/UART troubleshooting, field canopy
+sensors, SMD harvesting/organization</li>
+<li><strong>Developer Tools:</strong> Git, <a href="https://tekton.dev/">Tekton</a>, Jenkins, Travis CI, GNU Emacs,
+IntelliJ IDEA.</li>
+</ul>
+<hr />
+<h2 id="relevant-experience">Relevant Experience</h2>
+<h3 id="cibo-technologiescibo-st.-louis-mo"><strong><a href="https://www.cibotechnologies.com/">CIBO Technologies</a></strong>
+| St. Louis, MO</h3>
+<p><strong>Senior Software Engineer (Infrastructure)</strong> |
+<em>March 2021 – October 31, 2025</em></p>
+<ul>
+<li><strong>Architected and standardized core infrastructure</strong>
+for API-driven microservices backed by <strong>PostgreSQL</strong>,
+increasing platform reliability, reducing disaster recovery RTO through
+high-availability guardrails, and optimizing developer
+self-service.</li>
+<li><strong>Developed custom Kubernetes Admission Webhooks</strong> in
+Golang to automate complex lifecycle operations, <strong>reducing manual
+configuration errors by approximately 75%</strong>.</li>
+<li><strong>Led SOC2 Compliance and AWS Architecture reviews</strong>,
+ensuring enterprise-grade security and hardening the security posture of
+public-facing domains.</li>
+<li><strong>Orchestrated full-stack vulnerability remediation</strong>
+using the OSS Review Toolkit (ORT), navigating complex dependency trees
+in Scala and TypeScript to resolve critical security flaws while
+implementing “fuzzy pinning” strategies to prevent future
+regressions.</li>
+<li><strong>Scaled R&amp;D capabilities</strong> by deploying Ray and
+MLFlow clusters, <strong>approximately accelerating model training times
+by 30% and deployment times by 50%</strong> for the Data Science and
+Computer Vision teams as well as reducing our budget by eliminating
+unused, existing EC2 instances with GPUs.</li>
+<li><strong>Contributed to upstream open-source projects</strong> to
+resolve critical bugs, <strong>eliminating the long-term maintenance
+overhead</strong> of internal private forks.</li>
+</ul>
+<p><strong>Interim Lead of Infrastructure</strong> | <em>April 2020 –
+March 2021</em></p>
+<ul>
+<li><strong>Directed strategic roadmap development</strong> for a
+growing 4-person infrastructure team, <strong>aligning technical debt
+reduction with 12-month business milestones</strong>.</li>
+<li><strong>Managed cross-departmental security coordination</strong>
+and mentored junior engineers, <strong>improving team velocity by
+approximately 50%</strong> during a critical leadership transition.</li>
+</ul>
+<p><strong>Engagement Engineering Lead (Project Lead)</strong> |
+<em>July 2017 – April 2020</em></p>
+<ul>
+<li><strong>Architected a custom distributed application suite</strong>
+that secured a multimillion-dollar partnership, utilizing
+<strong>PostgreSQL</strong> for complex <strong>data modeling and schema
+design</strong>.</li>
+<li><strong>Optimized client research workflows by eliminating
+structural bottlenecks</strong> using high-level product and
+architectural design, <strong>reducing scientist workflow time from
+months to days and data processing time from weeks to
+hours</strong>.</li>
+<li><strong>Engineered scalable microservices</strong> in Scala and
+Python, <strong>successfully supporting 100+ concurrent users running c
+omputational and data intensive workflows</strong> from prototype
+through global deployment.</li>
+</ul>
+<hr />
+<h3 id="nanayananaya-st.-louis-mo"><strong><a href="http://www.nanaya.co">Nanaya</a></strong> | St. Louis, MO</h3>
+<p><strong>Co-founder / Infrastructure &amp; Software Engineer</strong>
+| <em>July 2014 – Present</em></p>
+<ul>
+<li><strong>Managed technical operations</strong> for a global platform
+with 300,000+ users, <strong>ensuring 99.9% uptime</strong> through
+proactive <strong>PostgreSQL query optimization</strong> while
+facilitating communication between developers and R&amp;D teams.</li>
+<li><strong>Migrated legacy infrastructure to a container-based
+model</strong>, which <strong>reduced deployment overhead by
+50%</strong> and significantly improved developer iteration speed.</li>
+<li><strong>Refined production-level algorithms</strong> and data
+pipelines, <strong>improving algorithm speed by 60% and accuracy by
+20%</strong> for the core application.</li>
+</ul>
+<hr />
+<h3 id="donald-danforth-plant-science-centerddpsc-st.-louis-mo"><strong><a href="https://www.danforthcenter.org/">Donald Danforth Plant Science
+Center</a></strong> | St. Louis, MO</h3>
+<p><strong>Senior Computational Scientist</strong> | <em>December 2014 –
+July 2017</em></p>
+<ul>
+<li><strong>Developed and commercialized <a href="https://www.agrelaeco.com/">PheNode</a></strong>, a field canopy
+sensor system (Arduino/Raspberry Pi) utilizing distributed Linux systems
+for automated data collection.</li>
+<li><strong>Automated high-throughput image capture</strong> across 180
+Raspberry Pis using Ansible, creating dense 3D reconstructions with
+<strong>sub-centimeter accuracy</strong> (<span class="math inline">+/ − 0.5<em>c</em><em>m</em></span>).</li>
+<li><strong>Coordinated data analytics</strong> for global research
+labs, <strong>optimizing computational resource allocation</strong> for
+high-throughput sequencing and imaging pipelines.</li>
+</ul>
+<hr />
+<h2 id="technical-projects">Technical Projects</h2>
+<h3 id="alvoiarko-homelab-advanced-k8s-networking"><strong>Alvoiarko
+Homelab (Advanced K8s &amp; Networking)</strong></h3>
+<ul>
+<li>Maintains a <strong>4-node bare-metal Kubernetes cluster</strong>
+(Talos/Proxmox) to <strong>test production-grade deployments</strong>
+using Cilium eBPF and OpenTofu.</li>
+<li>Operates critical services like <strong><a href="https://reconya.com/">Reconya</a></strong> and <strong><a href="https://github.com/C4illin/ConvertX">ConvertX</a></strong>,
+utilizing a full CI/CD lifecycle via ArgoCD and Tekton.</li>
+</ul>
+<h3 id="phenopisightphenopisight-iotcomputer-vision"><strong><a href="https://github.com/calizarr/EPSCoR_Bramble_GH9C">PhenoPiSight</a>
+(IoT/Computer Vision)</strong></h3>
+<ul>
+<li>Developed a distributed greenhouse phenotyping platform that
+<strong>streamlined the image transfer and 3D reconstruction
+pipeline</strong> for high-throughput analysis.</li>
+</ul>
+<hr />
+<h2 id="education-languages">Education &amp; Languages</h2>
+<ul>
+<li><strong>B.A. Mathematics (Probability and Statistics)</strong> |
+Washington University in St. Louis</li>
+<li><strong>Languages:</strong> English (Fluent), Spanish (Fluent),
+Italian (Intermediate).</li>
+</ul>
+<hr />
+<h2 id="publications">Publications</h2>
+<ul>
+<li><p>Joseph Ballenger, Samuel Kenney, Jared Gordon, Leonardo Chavez,
+Joseph G. Duenwald, Katherine M. Murphy, Leonardo W. Lima, <strong>Cesar
+Lizarraga</strong>, Malia A. Gehan. <strong>Raspberry Pi–powered
+temperature monitoring of growth chamber microclimates</strong>.
+https://doi.org/10.1002/aps3.70022 (2025)</p></li>
+<li><p>Agnew Erica , Ziegler Greg , Lee Scott , <strong>Lizárraga
+César</strong> , Fahlgren Noah , Baxter Ivan , Mockler Todd C. , Shakoor
+Nadia. <strong>Longitudinal genome-wide association study reveals early
+QTL that predict biomass accumulation under cold stress in
+sorghum</strong>. <a href="https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1278802"><em>Frontiers
+in Plant Science Volume 15 - 2024</em></a> DOI=10.3389/fpls.2024.1278802
+ISSN=1664-462X</p></li>
+<li><p>Nadia Shakoor, Erica Agnew, Greg Ziegler, Scott Lee,
+<strong>César Lizárraga</strong>, Noah Fahlgren, Ivan Baxter, Todd C.
+Mockler. <strong>Genomewide association study reveals transient loci
+underlying the genetic architecture of biomass accumulation under cold
+stress in Sorghum</strong>. bioRxiv 760025; doi:
+https://doi.org/10.1101/760025 (2019)</p></li>
+<li><p>Erica Agnew, Adam Bray, Eric Floro, Nate Ellis, John Gierer,
+<strong>César Lizárraga</strong>, Darren O’Brien, Madeline Wiechert,
+Todd C. Mockler, Nadia Shakoor, Christopher N. Topp. <strong>Whole‐Plant
+Manual and Image‐Based Phenotyping in Controlled Environments</strong>.
+<em>Plant Biology 2(1):1-21. https://doi.org/10.1002/cppb.20044
+(2017)</em></p></li>
+<li><p>He Huang, Malia A. Gehan, Sarah E. Huss, Sophie Alvarez,
+<strong>Cesar Lizarraga</strong>, Ellen L. Gruebbling, John Gierer,
+Michael J. Naldrett, Rebecca K. Bindbeutel, Bradley S. Evans, Todd C.
+Mockler, Dmitri A. Nusinow. <strong>Cross‐species complementation
+reveals conserved functions for EARLY FLOWERING 3 between monocots and
+dicots</strong>. <em>Plant Direct 1:4 https://doi.org/10.1002/pld3.18
+(2017)</em></p></li>
+<li><p>Gehan MA, Fahlgren N, Abbasi A, Berry JC, Callen ST, Chavez L,
+Doust AN, Feldman MJ, Gilbert KB, Hodge JG, Hoyer JS, Lin A, Liu S,
+<strong>Lizárraga C</strong>, Lorence A, Miller M, Platon E, Tessman M,
+Sax T. <strong>PlantCV v2: Image analysis software for high-throughput
+plant phenotyping</strong>. PeerJ. 2017 Dec 1;5:e4088. doi:
+10.7717/peerj.4088. PMID: 29209576; PMCID: PMC5713628.</p></li>
+<li><p>Laura Rayhel, B.A., Copper Aitken-Palmer, D.V.M., Ph.D.,
+Priscilla Joyner, B.Sc., B.V.M.S., Carolyn Cray, Ph.D., <strong>César
+Andrés Lizárraga, B.A.</strong>, Betty Ackerman, M.T. (A.S.C.P.), and
+Chris Crowe, B.S. <strong>Hematology and biochemistry in captive
+white-naped cranes (<em>Grus VIPIO</em>)</strong>. <em>Journal of Zoo
+and Wildlife Medicine 46(4):747-754.
+http://dx.doi.org/10.1638/2015-0027.1 (2015)</em></p></li>
+</ul>
+<h2 id="professional-presentations-posters">Professional Presentations
+(Posters)</h2>
+<ul>
+<li><p>Skyler Mitchell, Stuart Marshall, Stephanie Turnipseed, Luke
+Burnham, <strong>César Lizárraga</strong>, Jared Streich, Rob Alba, and
+Todd C. Mockler (2015) <strong>“Effect of drought treatments on
+transpiration rate and stomatal density in <em>Brachypodium
+distachyon</em>.”</strong> Donald Danforth Plant Science Center and
+Missouri Botanical Gardens Joint Fall Symposium, St. Louis, MO, October
+2015</p></li>
+<li><p><strong>César A. Lizárraga</strong>, Henry D. Priest, Noah
+Fahlgren, Rob Alba, and Todd C. Mockler. <strong>Bioinformatics
+Pipelines for Purple False Brome (Brachypodium distachyon) Donald
+Danforth Plant Science Center</strong>, St. Louis, MO. (2015)</p></li>
+<li><p><strong>Cesar Lizarraga</strong>, Stuart Marshall, Bradley Flynn,
+Nadia Shakoor and Todd C. Mockler. <strong>PhenoPiSight: Fixed Camera
+Greenhouse-based Phenotyping Platform</strong>. (2016)</p></li>
+</ul>
+</body>
+</html>
